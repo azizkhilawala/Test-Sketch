@@ -1,0 +1,63 @@
+{
+  "_class": "group",
+  "do_objectID": "E16E66F3-C566-41EC-8F4A-BCB67263D99C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 102,
+    "width": 375,
+    "x": 0,
+    "y": 202
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "DBDB6AD0-4C71-47C3-9EAA-DC145BFFD453"
+    },
+    {
+      "class": "text",
+      "id": "AD289B01-A3C2-4536-889F-01720F17E88C"
+    },
+    {
+      "class": "text",
+      "id": "44AE7385-C516-48DF-AE95-273B05B3EF8F"
+    },
+    {
+      "class": "bitmap",
+      "id": "6E7AD195-B294-4443-8DFC-CE0A0649BB9B"
+    }
+  ],
+  "name": "Best Buy",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

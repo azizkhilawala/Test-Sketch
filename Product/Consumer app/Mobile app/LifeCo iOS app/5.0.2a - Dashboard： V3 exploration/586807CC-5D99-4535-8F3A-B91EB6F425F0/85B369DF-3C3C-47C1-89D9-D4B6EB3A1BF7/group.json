@@ -1,0 +1,109 @@
+{
+  "_class": "group",
+  "do_objectID": "85B369DF-3C3C-47C1-89D9-D4B6EB3A1BF7",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 170,
+    "width": 345,
+    "x": 0,
+    "y": 27
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "F6CA1194-1193-4148-9D24-92988C10C292"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "81231324-F0E8-4584-9DBD-CD2DE1034347"
+    },
+    {
+      "class": "text",
+      "id": "351BFDB2-1B2C-4D37-8756-8147F4354283"
+    },
+    {
+      "class": "text",
+      "id": "3F58A2C0-B9B2-4C86-95C9-E2125F878232"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "36041889-7B33-4915-981D-2C1CC8CF58D9"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "F94EEC42-5046-4BCA-8086-C8B4243EFA7D"
+    },
+    {
+      "class": "text",
+      "id": "A355F80B-DA5F-4F6F-9540-CDB474488C6A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B4A87315-A111-4789-A0C5-204E18ED00FA"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "071E2F50-640D-4EF0-A3A4-F4A191247D62"
+    },
+    {
+      "class": "text",
+      "id": "5F6AEDBA-063B-43A9-9D8C-8C153765352F"
+    },
+    {
+      "class": "text",
+      "id": "BB469A08-2043-4A2C-9CAA-893056A48E71"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "80647E3F-E364-4E8A-A90D-D114E15287A6"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "B10BB78D-8BE8-4D8C-8DF4-83A858545630"
+    },
+    {
+      "class": "text",
+      "id": "A26935A3-CC45-4E57-9C1E-59F4DE51EE6B"
+    },
+    {
+      "class": "text",
+      "id": "A5E38F30-B027-4BA1-8E62-D7450D054080"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "CE85E8F2-DDB3-4DCD-8068-5FC27C5977D6"
+    },
+    {
+      "class": "text",
+      "id": "AA291AFC-BECD-4E52-81D4-91D5D15E9752"
+    }
+  ],
+  "name": "activity",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

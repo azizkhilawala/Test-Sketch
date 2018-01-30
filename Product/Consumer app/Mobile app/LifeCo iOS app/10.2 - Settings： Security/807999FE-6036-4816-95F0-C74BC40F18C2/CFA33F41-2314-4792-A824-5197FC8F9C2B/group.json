@@ -1,0 +1,78 @@
+{
+  "_class": "group",
+  "do_objectID": "CFA33F41-2314-4792-A824-5197FC8F9C2B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 144,
+    "width": 270,
+    "x": 53,
+    "y": 262
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "FD09E0AF-AEC3-4F12-B6A7-497EF20DCAF0"
+    },
+    {
+      "class": "group",
+      "id": "4084C87E-1464-4780-9EB9-A2D173AEAABA"
+    },
+    {
+      "class": "text",
+      "id": "4761621F-E9BA-4F03-AAC9-E8B7E949590D"
+    },
+    {
+      "class": "text",
+      "id": "A8BAE583-BE0E-4692-BA92-705E6D039DAC"
+    }
+  ],
+  "name": "Popup - Security - Try Again",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    },
+    "com.invisionlabs.library": {
+      "original-layer": {
+        "originalID": "C563D3DB-B958-4A3C-AFB1-4021A74010F2",
+        "version": 2
+      }
+    }
+  }
+}

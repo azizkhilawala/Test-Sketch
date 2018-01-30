@@ -1,0 +1,50 @@
+{
+  "_class": "group",
+  "do_objectID": "CAD1A812-7B03-433B-971F-3520EA13ED1F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 18,
+    "width": 16.8,
+    "x": 10.6,
+    "y": 20
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "0048F4F1-907D-49F2-BDDA-8B2246F9C8AA"
+    },
+    {
+      "class": "group",
+      "id": "94EEE1BA-C380-482C-9DB2-29DE47CA9C98"
+    }
+  ],
+  "name": "weight",
+  "nameIsFixed": true,
+  "originalObjectID": "756F7247-8E08-4656-8751-003BA48E024B",
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

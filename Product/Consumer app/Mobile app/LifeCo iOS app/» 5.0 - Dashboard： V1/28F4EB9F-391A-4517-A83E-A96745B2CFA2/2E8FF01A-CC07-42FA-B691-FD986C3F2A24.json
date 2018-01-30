@@ -1,0 +1,71 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "2E8FF01A-CC07-42FA-B691-FD986C3F2A24",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 75,
+    "width": 180,
+    "x": 98,
+    "y": 355
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 0,
+  "masterInfluenceEdgeMaxYPadding": 0,
+  "masterInfluenceEdgeMinXPadding": 0,
+  "masterInfluenceEdgeMinYPadding": 0,
+  "name": "components/goals/in-progress",
+  "nameIsFixed": false,
+  "originalObjectID": "94051152-E178-465E-AD30-0E741BB07E7D",
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "2C8EEA01-C082-4A2D-9436-AB51EB5C784D_stringValue",
+      "value": "Floors"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "0FF7050A-F904-4F5D-B45B-FCC712B01DFE_stringValue",
+      "value": "11 / 25"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "8B352346-A06C-4D74-83C7-B1EC8D9356B6_symbolID",
+      "value": "F29ECC0B-048E-4B87-AC1E-CB08FB47CB5C"
+    }
+  ],
+  "overrides": {
+    "0FF7050A-F904-4F5D-B45B-FCC712B01DFE": "11 / 25",
+    "2C8EEA01-C082-4A2D-9436-AB51EB5C784D": "Floors",
+    "8B352346-A06C-4D74-83C7-B1EC8D9356B6": {
+      "symbolID": "F29ECC0B-048E-4B87-AC1E-CB08FB47CB5C"
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "9C2AE72A-C175-42F1-8D4E-2822853B41D4",
+  "verticalSpacing": 0
+}

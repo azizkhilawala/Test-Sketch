@@ -1,0 +1,65 @@
+{
+  "_class": "group",
+  "do_objectID": "4C89A1B5-EAA7-4B19-AE4F-56A781685FA0",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 217,
+    "width": 325,
+    "x": 25,
+    "y": 419
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "F567099A-EED3-4FB3-BBAD-7F7A89B0287C"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "6C020017-D377-45FB-A270-0F0A484DCCCF"
+    },
+    {
+      "class": "text",
+      "id": "BD373B2F-7744-45B1-A929-264B4A6C1802"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "B288229C-040B-425B-9252-4002716FA976"
+    },
+    {
+      "class": "text",
+      "id": "4B0707C4-C3B5-464B-83FB-09859DED8EB6"
+    },
+    {
+      "class": "text",
+      "id": "6F3B7A29-1B53-4525-990D-0CCD532C9201"
+    }
+  ],
+  "name": "FinancialItems Copy",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

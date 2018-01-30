@@ -1,0 +1,129 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.9882352941176471,
+    "green": 0.9882352941176471,
+    "red": 0.9882352941176471
+  },
+  "do_objectID": "EF190B0C-04DB-40CC-BED3-AFA9BA0048CB",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 667,
+    "width": 375,
+    "x": -450,
+    "y": -852
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "E8E55C03-1C36-47FD-B8A2-F299A4D744FD"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "95FBFA4F-5E89-44AB-AF63-A494F02B3522"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "3F93783D-FFD3-44A2-81FA-BC03C9940A21"
+    },
+    {
+      "class": "group",
+      "id": "D5BF59AA-E92F-44C6-8F80-CC013130C4C8"
+    },
+    {
+      "class": "text",
+      "id": "CC812899-7F25-48AE-9038-B607B553FD60"
+    },
+    {
+      "class": "text",
+      "id": "A3E814AE-59B0-4009-B107-B729424CD2A4"
+    },
+    {
+      "class": "text",
+      "id": "68DC8201-ECE6-4A85-BBDB-25BF02B64F60"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A2CABF43-28F4-4469-95EF-2986575F8407"
+    },
+    {
+      "class": "group",
+      "id": "E791AD3F-BAB0-4134-B4B0-FEDB9F370088"
+    }
+  ],
+  "name": "Dashboard / Points",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+      667,
+      1334
+    ]
+  }
+}

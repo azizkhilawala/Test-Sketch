@@ -1,0 +1,144 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.9529411764705882,
+    "green": 0.9529411764705882,
+    "red": 0.9529411764705882
+  },
+  "do_objectID": "B450371C-24AE-4670-9783-0D74CA543BC4",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 667,
+    "width": 375,
+    "x": -3073,
+    "y": 4159
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "gridSize": 10,
+    "isEnabled": false,
+    "thickGridTimes": 10
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+      10,
+      365
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "4DF8B9AD-BD66-4DC2-9F11-D2B1E239FD95"
+    },
+    {
+      "class": "text",
+      "id": "DCD49FA5-5F97-477D-8887-358C213969A7"
+    },
+    {
+      "class": "group",
+      "id": "E04AA90D-9CEE-4D2E-95F8-57C0E4943CAE"
+    },
+    {
+      "class": "group",
+      "id": "C447E139-2330-442F-952A-55FE84138D14"
+    },
+    {
+      "class": "text",
+      "id": "443D8CDE-0927-43CC-A594-A21045FBD951"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "552E8EA5-CA82-4522-AE56-2BA7808D3186"
+    },
+    {
+      "class": "text",
+      "id": "781364D6-1992-423A-8258-B5F1A1A725DF"
+    },
+    {
+      "class": "text",
+      "id": "975FE973-E9A2-4FC9-AA4C-EBBC1C052E3E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "586A6767-EF1A-48C3-8D97-F1CE486B26BF"
+    }
+  ],
+  "name": "Rewards - History - Detailed (Starbucks)",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 0,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+      20,
+      64,
+      617
+    ]
+  }
+}

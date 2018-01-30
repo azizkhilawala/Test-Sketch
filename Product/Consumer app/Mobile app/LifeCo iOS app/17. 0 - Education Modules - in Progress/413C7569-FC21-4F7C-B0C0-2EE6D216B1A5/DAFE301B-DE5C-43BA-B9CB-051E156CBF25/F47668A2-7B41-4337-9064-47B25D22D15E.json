@@ -1,0 +1,71 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "F47668A2-7B41-4337-9064-47B25D22D15E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 134,
+    "width": 120,
+    "x": 134,
+    "y": 30
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 0,
+  "masterInfluenceEdgeMaxYPadding": 0,
+  "masterInfluenceEdgeMinXPadding": 0,
+  "masterInfluenceEdgeMinYPadding": 0,
+  "name": "Artboard Copy 2",
+  "nameIsFixed": false,
+  "originalObjectID": "0F1CA954-63E7-4BDF-A254-3DF6F199EF4F",
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "7F7BC6DD-A87F-49D7-82C5-EEFE344EFF5E_stringValue",
+      "value": "What to expect when buying Life Insurance"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "29676C46-DBB3-460C-81C8-E5FE10442692_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/cdaa24e382dda7cbb94fdf9d0bda2c4c79f86dee",
+        "_ref_class": "MSImageData"
+      }
+    }
+  ],
+  "overrides": {
+    "29676C46-DBB3-460C-81C8-E5FE10442692": {
+      "_class": "MSJSONFileReference",
+      "_ref": "images/cdaa24e382dda7cbb94fdf9d0bda2c4c79f86dee",
+      "_ref_class": "MSImageData"
+    },
+    "7F7BC6DD-A87F-49D7-82C5-EEFE344EFF5E": "What to expect when buying Life Insurance"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "C87C7B4D-F05A-4122-95BF-53E43715B7C8",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,180 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.9529411764705882,
+    "green": 0.9529411764705882,
+    "red": 0.9529411764705882
+  },
+  "do_objectID": "C49DD155-0E28-4C0E-ABA8-0B1AD5475B77",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 667,
+    "width": 375,
+    "x": 436,
+    "y": -676
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "gridSize": 10,
+    "isEnabled": false,
+    "thickGridTimes": 10
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+      10,
+      365
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "09311307-3C08-4B6C-9F4E-66295F8A9646"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "BEC1F010-69A8-4463-B266-9E9ACC65D6F8"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "D36261F3-2664-436C-932F-7023A4D5C2B0"
+    },
+    {
+      "class": "group",
+      "id": "89DC83E9-41F7-4681-87F9-D53A4A25206B"
+    },
+    {
+      "class": "text",
+      "id": "659616C2-29D9-4B82-A9BF-4B6F3D458D44"
+    },
+    {
+      "class": "group",
+      "id": "485DFFD2-2813-4702-95B1-A5370E0B2123"
+    },
+    {
+      "class": "group",
+      "id": "41C04C77-B546-4040-8697-FFB2E20C04E3"
+    },
+    {
+      "class": "text",
+      "id": "931C161E-87B0-42AA-9693-E98A22AB59DD"
+    },
+    {
+      "class": "group",
+      "id": "F7576F08-655D-4758-9DD3-392079977CC4"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "D6622169-ECA2-4CBE-8BDF-DF7832FB3DD2"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "B98D0CB0-0F35-4E20-A846-E3504553D912"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "5033A4F6-1F1D-4DCE-9960-588A8DE40B74"
+    },
+    {
+      "class": "text",
+      "id": "1DCD39AB-7963-4F5B-9800-ECF490EBEDE7"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "F85402C9-7B0B-4C4E-9588-8B3AAF00BEA1"
+    },
+    {
+      "class": "text",
+      "id": "5F212A6B-B749-4A69-AEA0-9267F3FF98E4"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "D2505A56-6BE7-4268-BC62-21D2CE37AC48"
+    },
+    {
+      "class": "text",
+      "id": "37593FC1-468F-490C-BF86-2BBA494F836F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A48B40D3-7BFC-408B-A276-762692827C96"
+    }
+  ],
+  "name": "Choose Challenge - Selected",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 0,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+      20,
+      64,
+      617
+    ]
+  }
+}

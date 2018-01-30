@@ -1,0 +1,77 @@
+{
+  "_class": "group",
+  "do_objectID": "B9000CC2-C5C9-4A14-8C0C-B71F1BC3BCEE",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 278,
+    "width": 375,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "EB800A74-F10D-43C8-91C8-4D9EE5D8B78F"
+    },
+    {
+      "class": "bitmap",
+      "id": "774D55B3-BC4D-4C11-879B-059873FCC538"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "E5256F3F-8822-4F74-911F-C3452AEEC6E2"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "06392DE2-2DFF-48AE-BDA0-EA4D54DC5888"
+    }
+  ],
+  "name": "Banner",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 278,
+            "enabled": 1,
+            "modelID": "constraint_8602917f-ed69-4af0-8c44-3cd4f2ed993a",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 375
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_7257800b-cac7-431d-851b-135cf15b044a",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "_class": "group",
+  "do_objectID": "35F77560-62D1-4340-B376-0144C8C40183",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 39,
+    "width": 375,
+    "x": 0,
+    "y": 312
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "25695A36-670F-4F93-AE53-0180451D6210"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "70B3CA56-D5C2-4655-959B-52DA19DAB20E"
+    },
+    {
+      "class": "text",
+      "id": "BBC57AAC-61A6-4C46-A603-DDF1D94D2726"
+    }
+  ],
+  "name": "Stores Label",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

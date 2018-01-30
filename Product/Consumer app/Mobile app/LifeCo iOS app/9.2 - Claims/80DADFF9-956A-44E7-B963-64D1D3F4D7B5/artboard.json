@@ -1,0 +1,144 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "do_objectID": "80DADFF9-956A-44E7-B963-64D1D3F4D7B5",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 667,
+    "width": 375,
+    "x": 4926,
+    "y": 955
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "gridSize": 10,
+    "isEnabled": false,
+    "thickGridTimes": 10
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+      10,
+      365
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "F359E5AE-C3F2-4019-B834-EB809EAB768C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "DCD2A889-DE04-4E4D-B182-33D6CDD6B5C6"
+    },
+    {
+      "class": "group",
+      "id": "353EE592-807B-4360-B49F-71B0A161536C"
+    },
+    {
+      "class": "group",
+      "id": "D530CA38-F869-4FF8-9171-B095BDC5BC65"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "DE34AAF7-72F6-4AA5-8C00-DF1A6E5458FE"
+    },
+    {
+      "class": "group",
+      "id": "3646C7C8-5EF6-4BE4-A273-5EB21AA81ACB"
+    },
+    {
+      "class": "group",
+      "id": "771E77F8-FF93-4815-9626-30B83FCE5B76"
+    },
+    {
+      "class": "group",
+      "id": "EAA0CEF4-A850-4101-852F-E81A36CAF6DF"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "4AC5949C-6051-4E64-AE56-D8B94687E621"
+    }
+  ],
+  "name": "Claims - home",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 0,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+      20,
+      64,
+      617
+    ]
+  }
+}

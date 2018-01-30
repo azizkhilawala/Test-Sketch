@@ -1,0 +1,78 @@
+{
+  "_class": "group",
+  "do_objectID": "3EC4F401-8482-4CD9-AD29-74A04C8E9E9D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 197,
+    "width": 270,
+    "x": 53,
+    "y": 235
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "FBE87DEE-31E2-4832-B060-23867DD41D0E"
+    },
+    {
+      "class": "group",
+      "id": "2B0A79A7-6EBF-4884-ADAE-D1F99169DBA7"
+    },
+    {
+      "class": "text",
+      "id": "5BBB63B3-5C32-4560-8F4F-8B74FAA54951"
+    },
+    {
+      "class": "text",
+      "id": "B327AD81-EED9-4881-9D71-11A05B693840"
+    }
+  ],
+  "name": "Modal - Are you sure 1",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    },
+    "com.invisionlabs.library": {
+      "original-layer": {
+        "originalID": "C563D3DB-B958-4A3C-AFB1-4021A74010F2",
+        "version": 2
+      }
+    }
+  }
+}

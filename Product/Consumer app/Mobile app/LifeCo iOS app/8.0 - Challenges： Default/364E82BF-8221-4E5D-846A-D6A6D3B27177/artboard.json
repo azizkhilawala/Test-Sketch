@@ -1,0 +1,164 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.9529411764705882,
+    "green": 0.9529411764705882,
+    "red": 0.9529411764705882
+  },
+  "do_objectID": "364E82BF-8221-4E5D-846A-D6A6D3B27177",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 667,
+    "width": 375,
+    "x": 8794,
+    "y": 4127
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "gridSize": 10,
+    "isEnabled": false,
+    "thickGridTimes": 10
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+      10,
+      365
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "37C2EBDF-1DD1-4235-A567-8DBC1AB3E64C"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "FC3E2389-1AF9-450E-AE56-D23BFFCEF455"
+    },
+    {
+      "class": "group",
+      "id": "14C0769A-51EF-47E2-8C55-50121AEFE4F3"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "EB96AB62-5600-4D78-B316-145C399A73A4"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "5D215925-C9FF-44A0-A5B1-6071554770AA"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "885F967A-3AAB-42F9-A946-B9DE0615C0D2"
+    },
+    {
+      "class": "group",
+      "id": "A4AC868E-65C3-4E72-B5C0-CC118F5B5F4D"
+    },
+    {
+      "class": "text",
+      "id": "7A927816-ACA7-4ADF-99C3-C0BC17C7F979"
+    },
+    {
+      "class": "group",
+      "id": "56C1DF52-87FD-484F-91BB-CA80B5FFD884"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "ABAD683A-BDB1-45DC-93FD-4B130BFBA81F"
+    },
+    {
+      "class": "group",
+      "id": "20EBAA7D-B552-4CD8-8119-4FA2617E52FC"
+    },
+    {
+      "class": "text",
+      "id": "6BB9190C-12C0-48BF-B967-9FB3F39E738E"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "9571C6C1-5BE9-4C15-8E25-AC3BB9D2B370"
+    },
+    {
+      "class": "group",
+      "id": "A63CB32F-3DE2-4B8D-817A-FF741520B1A4"
+    }
+  ],
+  "name": "Challenge - Individual (Missed Week)",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 0,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+      20,
+      64,
+      617
+    ]
+  }
+}

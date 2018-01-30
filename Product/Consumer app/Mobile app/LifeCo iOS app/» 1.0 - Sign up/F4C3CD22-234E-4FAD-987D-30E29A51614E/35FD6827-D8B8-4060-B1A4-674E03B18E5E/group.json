@@ -1,0 +1,78 @@
+{
+  "_class": "group",
+  "do_objectID": "35FD6827-D8B8-4060-B1A4-674E03B18E5E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 144,
+    "width": 270,
+    "x": 53,
+    "y": 262
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "D34C3792-65D8-46C5-AC7D-6AAA7F85562D"
+    },
+    {
+      "class": "group",
+      "id": "1F9BC0AD-6597-48C3-A4B5-EFCA8ADFA8AA"
+    },
+    {
+      "class": "text",
+      "id": "821EB41A-E8D7-40CC-AA15-4EB55B15DEC2"
+    },
+    {
+      "class": "text",
+      "id": "5F5CC13C-6FAC-4E5C-9AB7-5D9E620031A0"
+    }
+  ],
+  "name": "Popup - Message Sent",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    },
+    "com.invisionlabs.library": {
+      "original-layer": {
+        "originalID": "B68AE76C-59FB-4300-A7E6-43E830C81030",
+        "version": 2
+      }
+    }
+  }
+}

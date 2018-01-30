@@ -1,0 +1,63 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "9D727F7A-6FDC-4BCE-946C-EBA0FA36B41C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 29,
+    "width": 201,
+    "x": 87,
+    "y": 79
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 0,
+  "masterInfluenceEdgeMaxYPadding": 0,
+  "masterInfluenceEdgeMinXPadding": 0,
+  "masterInfluenceEdgeMinYPadding": 0,
+  "name": "input/tabs/two/brand-1",
+  "nameIsFixed": false,
+  "originalObjectID": "A8649512-FE71-419D-B60C-82C9E619AD29",
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "254713D3-4B09-48AF-ACA7-8C553B21DF5A_stringValue",
+      "value": "Email"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "334E7F6F-C528-492D-AD2E-88A2A5441F54_stringValue",
+      "value": "Text"
+    }
+  ],
+  "overrides": {
+    "254713D3-4B09-48AF-ACA7-8C553B21DF5A": "Email",
+    "334E7F6F-C528-492D-AD2E-88A2A5441F54": "Text"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "65CCF68C-C6BA-4009-9654-89DFE7B391D5",
+  "verticalSpacing": 0
+}

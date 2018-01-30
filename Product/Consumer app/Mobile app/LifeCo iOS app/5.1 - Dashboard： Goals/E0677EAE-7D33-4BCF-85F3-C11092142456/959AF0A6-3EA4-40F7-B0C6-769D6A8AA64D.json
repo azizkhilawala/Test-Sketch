@@ -1,0 +1,75 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "959AF0A6-3EA4-40F7-B0C6-769D6A8AA64D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 180,
+    "width": 375,
+    "x": 0,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 4,
+  "masterInfluenceEdgeMaxYPadding": 6,
+  "masterInfluenceEdgeMinXPadding": 4,
+  "masterInfluenceEdgeMinYPadding": 2,
+  "name": "titlebar/primary/multiline",
+  "nameIsFixed": false,
+  "originalObjectID": "892E4E40-46C9-49DF-8503-3F198816FF5B",
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "481FE914-4022-4AE1-8623-11D8973D6830_stringValue",
+      "value": "Cancel"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "DF9FFE21-BAB3-4066-9A8E-58BE36F753D5_stringValue",
+      "value": "Set daily floors goal"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "FEF21392-6D3C-49AB-8AFA-FD5C5884E04B_stringValue",
+      "value": "The more you do, the bigger the reward. Come back and adjust your goal as needed to push yourself and rack up more points. "
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "192328CC-F481-41F5-B61F-D6A7190CB19A_stringValue",
+      "value": " "
+    }
+  ],
+  "overrides": {
+    "192328CC-F481-41F5-B61F-D6A7190CB19A": " ",
+    "481FE914-4022-4AE1-8623-11D8973D6830": "Cancel",
+    "DF9FFE21-BAB3-4066-9A8E-58BE36F753D5": "Set daily floors goal",
+    "FEF21392-6D3C-49AB-8AFA-FD5C5884E04B": "The more you do, the bigger the reward. Come back and adjust your goal as needed to push yourself and rack up more points. "
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "5DEE4E2A-A29B-42D4-8160-60825569E7C9",
+  "verticalSpacing": 0
+}

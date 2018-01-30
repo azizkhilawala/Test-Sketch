@@ -1,0 +1,63 @@
+{
+  "_class": "group",
+  "do_objectID": "7DA77A7C-3B8A-483F-B892-C731C830A79C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 137,
+    "width": 144,
+    "x": 123,
+    "y": 192
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "6FC6CAF5-1172-4536-A3D7-DE8A099FC160"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "97A3CE71-7F68-45BC-9AFB-E0D67CBB3C62"
+    },
+    {
+      "class": "group",
+      "id": "90171974-EC26-41FA-8B2D-7F36FE123971"
+    },
+    {
+      "class": "group",
+      "id": "3503DD1F-89D1-46FA-94AD-86D5841EB5E0"
+    }
+  ],
+  "name": "icon_mylife_intro",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

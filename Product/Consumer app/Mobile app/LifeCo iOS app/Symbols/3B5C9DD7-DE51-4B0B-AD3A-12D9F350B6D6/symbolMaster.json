@@ -1,0 +1,118 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "changeIdentifier": 3252,
+  "do_objectID": "3B5C9DD7-DE51-4B0B-AD3A-12D9F350B6D6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 261,
+    "width": 375,
+    "x": 7071,
+    "y": 534
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "0E0F186E-6EBA-4E98-BFA1-8A14891EE2F7"
+    },
+    {
+      "class": "group",
+      "id": "7D58477F-059F-4C5C-8D87-78D959ADFD7D"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "8484C554-C709-407D-B917-4320A90DF08A"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "C0DD7CD4-21D6-4769-B335-3BA8D260CB08"
+    },
+    {
+      "class": "text",
+      "id": "EE845723-4C18-458C-AB98-F435D97597CE"
+    },
+    {
+      "class": "text",
+      "id": "D9D72C89-ABB7-4E1D-8F47-3450F5AB4D00"
+    },
+    {
+      "class": "text",
+      "id": "94868424-03D9-4F67-969F-5C148BE51D0A"
+    },
+    {
+      "class": "text",
+      "id": "F4603B4E-2BE2-43DF-A6C5-C1B7A475C2FB"
+    },
+    {
+      "class": "text",
+      "id": "38F40112-62DE-40CF-BF95-D494D48385AD"
+    },
+    {
+      "class": "text",
+      "id": "3C89B376-E159-4A50-B5E3-ED8E7E521C4B"
+    },
+    {
+      "class": "text",
+      "id": "07045EFC-6779-4484-BACC-4603D83EE227"
+    }
+  ],
+  "name": "components / keyboard / date-picker / text",
+  "nameIsFixed": true,
+  "originalObjectID": "98ADD58D-18CE-4A2C-8EAE-F2888A429D1D",
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "3FE56D7E-2A83-499B-86E6-5F0E42F7774C",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

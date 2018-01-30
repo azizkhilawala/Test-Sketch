@@ -1,0 +1,59 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "C267C6F9-DDC6-46B3-971A-B251F6F14F3F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 18,
+    "width": 18,
+    "x": 0,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 0,
+  "masterInfluenceEdgeMaxYPadding": 0,
+  "masterInfluenceEdgeMinXPadding": 0,
+  "masterInfluenceEdgeMinYPadding": 0,
+  "name": "icon/product/trust",
+  "nameIsFixed": false,
+  "originalObjectID": "964759A2-44E9-48C3-B372-A7B5BB90FD0E",
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "1DCB917E-B88A-4101-93C8-307D64C9CFB6_symbolID",
+      "value": "A0414B12-FF56-4F6E-94F4-D0B9EBCDB21A"
+    }
+  ],
+  "overrides": {
+    "1DCB917E-B88A-4101-93C8-307D64C9CFB6": {
+      "symbolID": "A0414B12-FF56-4F6E-94F4-D0B9EBCDB21A"
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "149029D7-E78E-446E-BBB6-68B7BE1E806C",
+  "verticalSpacing": 0
+}

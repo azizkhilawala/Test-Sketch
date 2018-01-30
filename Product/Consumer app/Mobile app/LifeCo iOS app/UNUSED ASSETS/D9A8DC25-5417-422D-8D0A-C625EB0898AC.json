@@ -1,0 +1,66 @@
+{
+  "_class": "bitmap",
+  "clippingMask": "{{0, 0}, {1, 1}}",
+  "do_objectID": "D9A8DC25-5417-422D-8D0A-C625EB0898AC",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "fillReplacesImage": false,
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 394,
+    "width": 625,
+    "x": 1313,
+    "y": 1483
+  },
+  "image": {
+    "_class": "MSJSONFileReference",
+    "_ref": "images/cf40db0e876ca2232d4046a1bf361259fbfa50ff",
+    "_ref_class": "MSImageData"
+  },
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Bitmap",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 394,
+            "enabled": 1,
+            "modelID": "constraint_14bbf05b-59e6-4c7f-8589-e791fe1c2f18",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 625
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_72af273c-112e-45e4-a4bd-efd7cb4fd22c",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "scaleFactor": 1
+        }
+      }
+    }
+  }
+}

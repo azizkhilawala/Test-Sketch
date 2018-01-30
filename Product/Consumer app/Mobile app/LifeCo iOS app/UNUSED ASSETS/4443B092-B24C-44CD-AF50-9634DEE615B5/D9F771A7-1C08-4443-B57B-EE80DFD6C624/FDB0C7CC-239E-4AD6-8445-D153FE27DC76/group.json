@@ -1,0 +1,70 @@
+{
+  "_class": "group",
+  "do_objectID": "FDB0C7CC-239E-4AD6-8445-D153FE27DC76",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 6,
+    "width": 34,
+    "x": 6.5,
+    "y": 7.5
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "E0A9554A-6B9E-493F-903D-92CA6821FC3E"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "4AE2A3B0-342B-4E80-976E-C745E98FAFA2"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "C9B2287C-516B-4EF5-A2A3-CAB6DE937217"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "01A36870-97A1-40C1-9784-C5F804F6B9B3"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "7F06979E-57EB-452C-B94F-D460BC6E857F"
+    }
+  ],
+  "name": "Signal",
+  "nameIsFixed": true,
+  "originalObjectID": "FDB3BD60-24BA-4BFC-805B-62AB58C2A6DA",
+  "resizingConstraint": 41,
+  "resizingType": 1,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 5,
+      "type": 0
+    },
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

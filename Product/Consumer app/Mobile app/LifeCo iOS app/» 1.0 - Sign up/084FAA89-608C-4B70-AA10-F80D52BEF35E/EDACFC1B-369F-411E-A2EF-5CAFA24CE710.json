@@ -1,0 +1,62 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "EDACFC1B-369F-411E-A2EF-5CAFA24CE710",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 50,
+    "width": 375,
+    "x": 0,
+    "y": 617
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 0,
+  "masterInfluenceEdgeMaxYPadding": 0,
+  "masterInfluenceEdgeMinXPadding": 0,
+  "masterInfluenceEdgeMinYPadding": 0,
+  "name": "button/fullwidth/default",
+  "nameIsFixed": false,
+  "originalObjectID": "9B7D8E16-4C3B-4DD6-B7E2-5C56D4F9BA57",
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "51C7CC54-1A90-4E11-95F7-15A7AA60566D_stringValue",
+      "value": "Next"
+    }
+  ],
+  "overrides": {
+    "51C7CC54-1A90-4E11-95F7-15A7AA60566D": "Next"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "5CF9001A-5697-4D19-BC90-6A3FE4894554",
+  "userInfo": {
+    "com.abynim.sketchplugins.userflows": {
+      "destinationArtboardID": "3D379795-48FE-48BA-A33D-DF6ED76572D2"
+    }
+  },
+  "verticalSpacing": 0
+}

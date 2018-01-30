@@ -1,0 +1,148 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.9529411764705882,
+    "green": 0.9529411764705882,
+    "red": 0.9529411764705882
+  },
+  "do_objectID": "55EA1031-6CD8-4417-A745-183FE722E777",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 667,
+    "width": 375,
+    "x": 1757,
+    "y": -1609
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "gridSize": 10,
+    "isEnabled": false,
+    "thickGridTimes": 10
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+      10,
+      365
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "text",
+      "id": "09AEA15C-C92A-414F-9F0A-F3EFDF0012E2"
+    },
+    {
+      "class": "text",
+      "id": "40C93CC2-5D86-4B49-881B-B85485D4646F"
+    },
+    {
+      "class": "group",
+      "id": "C33A60CF-B8BC-4E86-882A-0BDA389E8BA0"
+    },
+    {
+      "class": "text",
+      "id": "C0142E98-1B57-412E-83B6-338C30985050"
+    },
+    {
+      "class": "text",
+      "id": "3B5C2869-4903-42C6-8569-2AA06BE62B2C"
+    },
+    {
+      "class": "text",
+      "id": "8C6DB0FB-154D-4A5A-9AC9-F5B1EA2753E6"
+    },
+    {
+      "class": "group",
+      "id": "D4EC1798-531F-4B17-8360-29D3E182B847"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "3B0C7A02-971A-487D-A829-6B7E953137A9"
+    },
+    {
+      "class": "group",
+      "id": "86604596-FFF2-4F9B-AB67-BEEB9AECEFE2"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "81E6F2BC-B204-4907-B549-1F9A6438BE11"
+    }
+  ],
+  "name": "• Email and Password - Filled 2 - Error",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 0,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+      20,
+      64,
+      617
+    ]
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "do_objectID": "F799873A-22F2-44D9-8B2B-A8EB4E92A2CB",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 200,
+    "width": 375,
+    "x": 0,
+    "y": 401
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "text",
+      "id": "55FD4935-3E72-4872-BE8A-55300D4D62EC"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "376A7B75-98A0-4440-862B-EDBCB1B75D6F"
+    },
+    {
+      "class": "text",
+      "id": "C1E1F990-5BA6-4FBB-A3B7-76549877E9B0"
+    },
+    {
+      "class": "group",
+      "id": "A2377D37-3D48-416F-9C42-88D69270F4CB"
+    },
+    {
+      "class": "group",
+      "id": "72A92EE9-69E6-4BA5-A8F2-63B97C3D9217"
+    }
+  ],
+  "name": "challenges",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

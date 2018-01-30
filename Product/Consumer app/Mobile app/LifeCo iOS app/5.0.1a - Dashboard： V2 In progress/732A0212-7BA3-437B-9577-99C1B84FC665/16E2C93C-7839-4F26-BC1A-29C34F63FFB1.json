@@ -1,0 +1,63 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "16E2C93C-7839-4F26-BC1A-29C34F63FFB1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 50,
+    "width": 365,
+    "x": 5,
+    "y": 1106
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 6,
+  "masterInfluenceEdgeMaxYPadding": 30,
+  "masterInfluenceEdgeMinXPadding": 1,
+  "masterInfluenceEdgeMinYPadding": 12,
+  "name": "button/split/floating",
+  "nameIsFixed": false,
+  "originalObjectID": "B7F49362-5813-49C4-BAE6-A5037F9767D6",
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "5593C8F9-15A5-4F6C-A726-867C21C35178_stringValue",
+      "value": "Get rewards"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "904B1597-BF90-4690-A455-82CC0B0D4B22_stringValue",
+      "value": "Start challenge"
+    }
+  ],
+  "overrides": {
+    "5593C8F9-15A5-4F6C-A726-867C21C35178": "Get rewards",
+    "904B1597-BF90-4690-A455-82CC0B0D4B22": "Start challenge"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "82D98B18-4B05-4FE3-A8FB-0912FEF479A4",
+  "verticalSpacing": 0
+}

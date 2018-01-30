@@ -1,0 +1,144 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.9529411764705882,
+    "green": 0.9529411764705882,
+    "red": 0.9529411764705882
+  },
+  "do_objectID": "EB6C422D-CFF2-46BB-B044-13ACB31A0B2C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 667,
+    "width": 375,
+    "x": 5745,
+    "y": 1799
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "gridSize": 10,
+    "isEnabled": false,
+    "thickGridTimes": 10
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+      10,
+      365
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "803A0008-31A7-479A-89BF-BC3FF79901F8"
+    },
+    {
+      "class": "text",
+      "id": "6B02E1CD-B209-4ABD-9E42-C4E8F9E0EC00"
+    },
+    {
+      "class": "group",
+      "id": "81BB9764-1ED7-452A-824A-BDC2F82B6881"
+    },
+    {
+      "class": "text",
+      "id": "DEA632EA-9C3A-4298-B068-B2B003AEDE55"
+    },
+    {
+      "class": "group",
+      "id": "9F7C245F-69B7-48E2-A486-A46EE12069F8"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "24D47D0D-32DF-434B-9A3E-FF69BEB67AF5"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "2FEC3955-C604-4D08-896E-7E4B34048FD1"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "AA837EA9-FB82-48AD-BF56-462D4227B31C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "2C87B6A8-5C91-46FF-88DA-E90CFC203BC7"
+    }
+  ],
+  "name": "MyLife - Add Event - 2.5",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 0,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+      20,
+      64,
+      617
+    ]
+  }
+}

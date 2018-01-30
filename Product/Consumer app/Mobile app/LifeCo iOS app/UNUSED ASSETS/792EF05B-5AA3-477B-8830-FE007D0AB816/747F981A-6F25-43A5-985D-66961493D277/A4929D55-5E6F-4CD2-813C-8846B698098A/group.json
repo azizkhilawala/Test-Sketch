@@ -1,0 +1,81 @@
+{
+  "_class": "group",
+  "do_objectID": "A4929D55-5E6F-4CD2-813C-8846B698098A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 20,
+    "width": 375,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "709AB8F6-8DC0-425E-B64E-9472296F5DF2"
+    },
+    {
+      "class": "group",
+      "id": "637769ED-04B8-47F8-9AC1-A2C5E72099C1"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "291E1043-8DCE-4ECF-B172-F7AA4E963B93"
+    },
+    {
+      "class": "text",
+      "id": "51956F8A-A9AA-4829-AC33-C3290B8FD59F"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "CFDBC861-9393-4DB3-8518-46EA61236688"
+    },
+    {
+      "class": "text",
+      "id": "E70BAEE9-EA45-4F56-8ED4-B20171AD4F25"
+    },
+    {
+      "class": "group",
+      "id": "C552BD48-8127-4F2F-B8F2-954CA9A5162B"
+    }
+  ],
+  "name": "Status Bar/Black/Base",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    },
+    "com.invisionlabs.library": {
+      "original-layer": {
+        "originalID": "82081B53-A465-4C2D-A35B-64DE05A580AB",
+        "version": 2
+      }
+    }
+  }
+}

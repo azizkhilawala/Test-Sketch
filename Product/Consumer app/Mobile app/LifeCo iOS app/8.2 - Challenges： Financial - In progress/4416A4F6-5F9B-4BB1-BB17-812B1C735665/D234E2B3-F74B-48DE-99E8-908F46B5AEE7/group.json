@@ -1,0 +1,78 @@
+{
+  "_class": "group",
+  "do_objectID": "D234E2B3-F74B-48DE-99E8-908F46B5AEE7",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 144,
+    "width": 270,
+    "x": 370,
+    "y": 10989
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "A4701209-078E-4CF3-8BA6-221D7804602F"
+    },
+    {
+      "class": "group",
+      "id": "80F2504B-35D2-4007-932A-3CFF47579BF3"
+    },
+    {
+      "class": "text",
+      "id": "9C0FCC63-E388-4E68-9811-7B784DEC8636"
+    },
+    {
+      "class": "text",
+      "id": "2C74DF27-8B56-4233-9403-D52B30149E10"
+    }
+  ],
+  "name": "Popup - Are You Sure Quit",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    },
+    "com.invisionlabs.library": {
+      "original-layer": {
+        "originalID": "C563D3DB-B958-4A3C-AFB1-4021A74010F2",
+        "version": 2
+      }
+    }
+  }
+}

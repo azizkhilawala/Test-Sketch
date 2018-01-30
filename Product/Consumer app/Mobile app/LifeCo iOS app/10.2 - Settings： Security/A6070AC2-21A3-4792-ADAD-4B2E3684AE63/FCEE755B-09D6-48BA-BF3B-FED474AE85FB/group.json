@@ -1,0 +1,49 @@
+{
+  "_class": "group",
+  "do_objectID": "FCEE755B-09D6-48BA-BF3B-FED474AE85FB",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 46,
+    "width": 340,
+    "x": 18,
+    "y": 601
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "01A4698B-8BD0-4A03-8CE4-5C74DDEF2FB9"
+    },
+    {
+      "class": "text",
+      "id": "32BBA9CF-B5C5-42A7-B987-2CDFE646F2FE"
+    }
+  ],
+  "name": "Rectangle 559 + Tap here to see flow Copy",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

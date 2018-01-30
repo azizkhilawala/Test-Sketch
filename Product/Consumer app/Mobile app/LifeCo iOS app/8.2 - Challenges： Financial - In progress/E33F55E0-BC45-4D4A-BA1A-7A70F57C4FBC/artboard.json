@@ -1,0 +1,144 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.9529411764705882,
+    "green": 0.9529411764705882,
+    "red": 0.9529411764705882
+  },
+  "do_objectID": "E33F55E0-BC45-4D4A-BA1A-7A70F57C4FBC",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 667,
+    "width": 375,
+    "x": 5416,
+    "y": -9533
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "gridSize": 10,
+    "isEnabled": false,
+    "thickGridTimes": 10
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+      10,
+      365
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "DA92E963-A8DE-4C94-B736-5414BCC1C93E"
+    },
+    {
+      "class": "group",
+      "id": "E2FE594D-D1E3-48CB-84AE-37EBF10909C7"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "231080B5-2267-4226-BE72-25D3D9984757"
+    },
+    {
+      "class": "group",
+      "id": "FE399D3C-C424-4425-AFF3-24D34C84343C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A09D1F97-34D5-4A8B-9194-9605005B83B4"
+    },
+    {
+      "class": "group",
+      "id": "420BBF97-A8CB-47EB-92E0-852BF631B607"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "1B8887C2-15C6-4179-BEA3-767CFB6B4EBE"
+    },
+    {
+      "class": "group",
+      "id": "63B164A5-D023-49B8-B60F-8B539758BC2A"
+    },
+    {
+      "class": "group",
+      "id": "6A5A0A07-7AEC-48FF-A0E7-AF91DD28C5E8"
+    }
+  ],
+  "name": "Challenge - Financial: Goal",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 0,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+      20,
+      64,
+      617
+    ]
+  }
+}

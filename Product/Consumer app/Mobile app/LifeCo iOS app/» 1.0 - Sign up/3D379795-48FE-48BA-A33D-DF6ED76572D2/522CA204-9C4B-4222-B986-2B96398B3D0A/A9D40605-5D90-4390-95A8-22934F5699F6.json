@@ -1,0 +1,57 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "A9D40605-5D90-4390-95A8-22934F5699F6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 50,
+    "width": 345,
+    "x": 0,
+    "y": 25
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 0,
+  "masterInfluenceEdgeMaxYPadding": 0,
+  "masterInfluenceEdgeMinXPadding": 0,
+  "masterInfluenceEdgeMinYPadding": 0,
+  "name": "forms/input/placeholder",
+  "nameIsFixed": false,
+  "originalObjectID": "7B115117-95E4-4BF0-8F7C-0D5F690345E6",
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "6A245B55-B273-4C0D-80A4-BBFE57B3C7B2_stringValue",
+      "value": "Enter your password"
+    }
+  ],
+  "overrides": {
+    "6A245B55-B273-4C0D-80A4-BBFE57B3C7B2": "Enter your password"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "1EE803FE-F672-437F-89BA-E0DA11B6AD01",
+  "verticalSpacing": 0
+}

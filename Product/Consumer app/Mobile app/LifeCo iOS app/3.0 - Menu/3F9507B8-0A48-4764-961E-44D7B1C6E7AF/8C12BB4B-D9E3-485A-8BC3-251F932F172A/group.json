@@ -1,0 +1,53 @@
+{
+  "_class": "group",
+  "do_objectID": "8C12BB4B-D9E3-485A-8BC3-251F932F172A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 50,
+    "width": 300,
+    "x": 0,
+    "y": 201
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "D18ECC83-38E5-465D-9089-B8E41BD4259F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "1E49D322-0F62-44C1-98FE-E717CD4A6659"
+    },
+    {
+      "class": "text",
+      "id": "E273A7B3-1BE7-492F-B241-B87D03754AB4"
+    }
+  ],
+  "name": "Rewards",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

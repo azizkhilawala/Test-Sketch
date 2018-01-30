@@ -1,0 +1,83 @@
+{
+  "_class": "group",
+  "do_objectID": "8CCF181D-0249-44BB-8B4B-1527E3155FBE",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 64,
+    "width": 375,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "8016740B-30E2-42E1-B850-2F461A3356E9"
+    },
+    {
+      "class": "text",
+      "id": "73474865-54CC-40DD-84E9-4C8ECC80F63E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "58AEF0BB-78EC-4F75-B283-CF6B0DFC6818"
+    },
+    {
+      "class": "group",
+      "id": "5CB923F4-ADDB-428E-9DCA-1F9A2CA6F16F"
+    },
+    {
+      "class": "group",
+      "id": "DD33AB6A-A59B-42CD-A868-A880DBE505F9"
+    }
+  ],
+  "name": "status+title bar",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "shadows": [
+      {
+        "_class": "shadow",
+        "blurRadius": 4,
+        "color": {
+          "_class": "color",
+          "alpha": 0.14,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "isEnabled": true,
+        "offsetX": 0,
+        "offsetY": 2,
+        "spread": 0
+      }
+    ],
+    "startDecorationType": 0
+  }
+}

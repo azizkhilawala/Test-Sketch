@@ -1,0 +1,63 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "DCD2A889-DE04-4E4D-B182-33D6CDD6B5C6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 40,
+    "width": 335,
+    "x": 20,
+    "y": 271
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 0,
+  "masterInfluenceEdgeMaxYPadding": 0,
+  "masterInfluenceEdgeMinXPadding": 0,
+  "masterInfluenceEdgeMinYPadding": 0,
+  "name": "button/split/simple",
+  "nameIsFixed": false,
+  "originalObjectID": "D3D95FDB-8A30-4479-B399-E7EFF9D2DA49",
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "D217713D-443E-45BA-A597-7FAC3C5FE12A_stringValue",
+      "value": "Help Topics"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "47226331-53C9-49E7-B91A-690A04401AE5_stringValue",
+      "value": "Contact Us"
+    }
+  ],
+  "overrides": {
+    "47226331-53C9-49E7-B91A-690A04401AE5": "Contact Us",
+    "D217713D-443E-45BA-A597-7FAC3C5FE12A": "Help Topics"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "CC189A57-E20F-44F9-92EA-AF2070BFD6F5",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,63 @@
+{
+  "_class": "group",
+  "do_objectID": "08700D10-F3A8-4FD2-A877-824D88D24021",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 102,
+    "width": 375,
+    "x": 0,
+    "y": 316
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "1E2EFE46-3FB7-4E58-AE72-3C63A674529D"
+    },
+    {
+      "class": "text",
+      "id": "2C6F2AC1-C57A-4F22-816E-C882C2588890"
+    },
+    {
+      "class": "text",
+      "id": "34EC44FB-5286-4519-B8DE-D3AED92E133E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "62CB0DBC-B497-4881-93CA-6AF6EB848663"
+    }
+  ],
+  "name": "iTunes",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

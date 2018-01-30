@@ -1,0 +1,63 @@
+{
+  "_class": "group",
+  "do_objectID": "EE002361-4569-48BF-A08A-B49C0773C85E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 102,
+    "width": 375,
+    "x": 0,
+    "y": 417
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "7489B175-B690-4DAC-AFAE-7413549CCF3D"
+    },
+    {
+      "class": "text",
+      "id": "DC24E06C-C64E-40EC-8285-D348070630A7"
+    },
+    {
+      "class": "text",
+      "id": "82BE78D0-3F3C-4419-92B2-D7B4438B7CF8"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B9591888-80D0-4D4E-985F-A4719681EA1E"
+    }
+  ],
+  "name": "Starbucks",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

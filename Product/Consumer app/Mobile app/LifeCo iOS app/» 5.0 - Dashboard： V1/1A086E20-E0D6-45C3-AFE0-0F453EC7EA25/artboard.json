@@ -1,0 +1,183 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.9529411764705882,
+    "green": 0.9529411764705882,
+    "red": 0.9529411764705882
+  },
+  "do_objectID": "1A086E20-E0D6-45C3-AFE0-0F453EC7EA25",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 667,
+    "width": 375,
+    "x": -526,
+    "y": 507
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "gridSize": 15,
+    "isEnabled": false,
+    "thickGridTimes": 5
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+      10,
+      365
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "1DB2BF46-9B8B-4E80-8918-4A909D1B8170"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "074F5577-2E5C-48FF-8D3A-95C817831193"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "02BF1C7D-5907-482D-85CB-ECA3A55D202F"
+    },
+    {
+      "class": "group",
+      "id": "74278964-4E78-4C20-9A26-CA7A3CBA2295"
+    },
+    {
+      "class": "group",
+      "id": "7C54EB21-5FF2-43B8-9062-AAFA238FEE26"
+    },
+    {
+      "class": "group",
+      "id": "72F24CAD-B266-475F-BEB8-77DE9B2CF702"
+    },
+    {
+      "class": "text",
+      "id": "03357457-C98C-4E9F-9EEF-0C955F7AE77B"
+    },
+    {
+      "class": "text",
+      "id": "7558DC84-25CD-4993-8531-5233EC3FFE05"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "FC461E6D-A027-4D22-A608-4C15030DF2CA"
+    },
+    {
+      "class": "group",
+      "id": "3C775A45-F8AD-411F-89A5-305F10EA8502"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "77BBD6D7-B651-46FA-8DF1-6C09A3CCA48B"
+    },
+    {
+      "class": "group",
+      "id": "6B0165F5-25B5-4811-AD9C-11CF5D1FF09C"
+    },
+    {
+      "class": "group",
+      "id": "FEA8217F-319B-4EAD-89A6-8F32178C4164"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "26D05593-1C71-4156-B240-55F454F0D645"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "042F6311-1617-4C6C-937C-D117517EFBA8"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 83.75,
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 10,
+    "guttersOutside": true,
+    "horizontalOffset": 0,
+    "isEnabled": false,
+    "numberOfColumns": 4,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 375
+  },
+  "name": "Dashboard (No Devices Connected)",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 0,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+      20,
+      64,
+      617
+    ]
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "60945879-7596-4E6F-8B44-A982889581E1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 43,
+    "width": 43.61428571428571,
+    "x": 166,
+    "y": 312
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 0,
+  "masterInfluenceEdgeMaxYPadding": 0,
+  "masterInfluenceEdgeMinXPadding": 0,
+  "masterInfluenceEdgeMinYPadding": 0,
+  "name": "icon/animated/spinner/circle",
+  "nameIsFixed": false,
+  "originalObjectID": "8E28F129-DE47-4BB6-96FC-AEF42B1A6177",
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "F42E8E01-2702-47E6-9020-9F1F77809B98_symbolID",
+      "value": "163814DB-3A2F-46E5-A6E4-EDB0548C3105"
+    }
+  ],
+  "overrides": {
+    "F42E8E01-2702-47E6-9020-9F1F77809B98": {
+      "symbolID": "163814DB-3A2F-46E5-A6E4-EDB0548C3105"
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "B7464D89-D7B0-42CB-B772-7E7BB1A8F00A",
+  "verticalSpacing": 0
+}

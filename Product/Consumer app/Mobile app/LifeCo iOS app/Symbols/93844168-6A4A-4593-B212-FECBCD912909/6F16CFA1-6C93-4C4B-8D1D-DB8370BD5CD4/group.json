@@ -1,0 +1,72 @@
+{
+  "_class": "group",
+  "do_objectID": "6F16CFA1-6C93-4C4B-8D1D-DB8370BD5CD4",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 44,
+    "width": 375,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "EEECE2AD-E453-4B65-A94F-1BC0C24589F3"
+    },
+    {
+      "class": "text",
+      "id": "5CDF9012-013F-43B1-BA19-7B6F89F84F0A"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "BD31E8DA-61ED-48EA-9CCC-09C4B676907E"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "0EE8624A-790B-4E7B-98FE-18414A893971"
+    }
+  ],
+  "name": "done bar",
+  "nameIsFixed": true,
+  "originalObjectID": "310104BB-2553-443E-A1EB-E265FF66BC63",
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 5,
+      "type": 0
+    },
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "_class": "group",
+  "do_objectID": "E343332A-9518-4968-8AA9-DA2FDD92C0D6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 102,
+    "width": 375,
+    "x": 0,
+    "y": 215
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "DAF7BDAF-B63F-4EEC-84E8-29FDC34FC1BD"
+    },
+    {
+      "class": "text",
+      "id": "BDB369F9-B705-4FCC-A89A-BA45E69B4B51"
+    },
+    {
+      "class": "text",
+      "id": "F742DC99-7AA3-4B73-B2A8-EA5A19314AE0"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "8E282A98-323E-45EC-A873-9116F97FBCCE"
+    }
+  ],
+  "name": "Amazon",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

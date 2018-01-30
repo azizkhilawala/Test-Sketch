@@ -1,0 +1,156 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.9529411764705882,
+    "green": 0.9529411764705882,
+    "red": 0.9529411764705882
+  },
+  "do_objectID": "2ABB9C13-1A12-4592-8783-D0F23070DD07",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 667,
+    "width": 375,
+    "x": 5842,
+    "y": -10292
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "gridSize": 10,
+    "isEnabled": false,
+    "thickGridTimes": 10
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+      10,
+      365
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "AF3570E1-E805-489C-93DC-1E49151A1930"
+    },
+    {
+      "class": "group",
+      "id": "B59555DB-FA56-4C71-B4C3-8189869A6AEC"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "AA1A81A4-3845-44DA-93B3-6A254B0C334A"
+    },
+    {
+      "class": "group",
+      "id": "46C0E2FB-B095-4690-84E3-A03106F26523"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "3B3875CD-E172-4832-9FC1-AB60DC677973"
+    },
+    {
+      "class": "group",
+      "id": "320B3624-9AE7-4D4E-90FF-E976B056A2C2"
+    },
+    {
+      "class": "group",
+      "id": "06BA61A6-3BD5-4E76-8522-8EDDFD816207"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "6AF8D26C-A7D8-4186-8C88-57B5D2519D0F"
+    },
+    {
+      "class": "group",
+      "id": "D9C56628-F771-43C5-B681-E706617897E9"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "0726801B-A04B-4A72-B148-A79C3BB66C09"
+    },
+    {
+      "class": "group",
+      "id": "D3C1A57A-E74B-4687-A604-5DB7B01F5CF3"
+    },
+    {
+      "class": "group",
+      "id": "55B42C35-44D0-4C35-AC88-8CB74BAF8E69"
+    }
+  ],
+  "name": "Challenge - Financial: Contribution & Saving in-progress Copy",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 0,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+      20,
+      64,
+      617
+    ]
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "_class": "group",
+  "do_objectID": "DB5E002E-D08D-4FAE-9B90-4B2EF84B8857",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 75,
+    "width": 180,
+    "x": -55,
+    "y": 240
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "12888F12-A8BB-45A0-9D87-530E3A8DB7B0"
+    },
+    {
+      "class": "group",
+      "id": "8E18EC4E-88F6-4525-BF08-F9CED539F909"
+    },
+    {
+      "class": "text",
+      "id": "7709FF4A-EDE8-4E4F-8B69-C0E1D88673C7"
+    },
+    {
+      "class": "group",
+      "id": "3B0610E3-C164-4984-9C9D-02026F197797"
+    },
+    {
+      "class": "text",
+      "id": "6F441509-9814-44E9-90AD-7B93CCF917F9"
+    }
+  ],
+  "name": "Module - Steps Copy",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

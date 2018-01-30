@@ -1,0 +1,57 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "4252B72F-F5E7-42AA-B061-76B966F6ADED",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 160,
+    "width": 200,
+    "x": 88,
+    "y": 254
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 0,
+  "masterInfluenceEdgeMaxYPadding": 0,
+  "masterInfluenceEdgeMinXPadding": 0,
+  "masterInfluenceEdgeMinYPadding": 0,
+  "name": "components/loader/success",
+  "nameIsFixed": false,
+  "originalObjectID": "AEF8B647-321C-461B-9AAD-4258B1C484C5",
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "48A41DE3-0CCD-4E62-B35E-5399B652C9A3_stringValue",
+      "value": "Goal set"
+    }
+  ],
+  "overrides": {
+    "48A41DE3-0CCD-4E62-B35E-5399B652C9A3": "Goal set"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "7AA08F6A-2C09-41ED-9030-06B4A89A4EAA",
+  "verticalSpacing": 0
+}

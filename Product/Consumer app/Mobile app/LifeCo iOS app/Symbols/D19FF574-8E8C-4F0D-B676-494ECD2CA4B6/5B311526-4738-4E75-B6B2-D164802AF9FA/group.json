@@ -1,0 +1,50 @@
+{
+  "_class": "group",
+  "do_objectID": "5B311526-4738-4E75-B6B2-D164802AF9FA",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 60,
+    "width": 51,
+    "x": 5,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "48AA9CC0-E127-4152-9D3F-82976F9C385E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A0BBAFB4-335A-4EA5-ABF3-8CBFCCFA67BA"
+    }
+  ],
+  "name": "android",
+  "nameIsFixed": true,
+  "originalObjectID": "5B311526-4738-4E75-B6B2-D164802AF9FA",
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

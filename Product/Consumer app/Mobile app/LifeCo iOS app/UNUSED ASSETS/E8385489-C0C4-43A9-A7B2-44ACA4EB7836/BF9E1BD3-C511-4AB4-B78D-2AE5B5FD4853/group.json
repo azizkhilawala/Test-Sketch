@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "do_objectID": "BF9E1BD3-C511-4AB4-B78D-2AE5B5FD4853",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 121,
+    "width": 335,
+    "x": 20,
+    "y": 383
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "EC711EF5-6AEF-43AB-9D52-03B582C505C0"
+    },
+    {
+      "class": "group",
+      "id": "0C706BFE-566A-4925-A982-B59CCE10DE82"
+    },
+    {
+      "class": "group",
+      "id": "5A8423C5-C46B-420C-B74C-0AB6BCE64E96"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "4A08CE2C-7E67-4EEB-9704-72C9EA46A547"
+    }
+  ],
+  "name": "Breakdown",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "E6F7A832-3F24-4EA1-A16E-C7F4BFFCA575",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 44,
+    "width": 345,
+    "x": 15,
+    "y": 608
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 0,
+  "masterInfluenceEdgeMaxYPadding": 0,
+  "masterInfluenceEdgeMinXPadding": 0,
+  "masterInfluenceEdgeMinYPadding": 0,
+  "name": "Buttons / White button",
+  "nameIsFixed": false,
+  "originalObjectID": "A4408ABA-9922-47A5-ABFD-A41E4171ECB6",
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "6EAEB995-26A5-4871-80B8-2B50B80E1B50_stringValue",
+      "value": "Create account"
+    }
+  ],
+  "overrides": {
+    "6EAEB995-26A5-4871-80B8-2B50B80E1B50": "Create account"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "FC9A62A0-9AE7-49A7-B43A-FA477F0557D9",
+  "userInfo": {
+    "com.abynim.sketchplugins.userflows": {
+      "destinationArtboardID": "084FAA89-608C-4B70-AA10-F80D52BEF35E"
+    }
+  },
+  "verticalSpacing": 0
+}

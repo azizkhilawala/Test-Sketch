@@ -1,0 +1,59 @@
+{
+  "_class": "group",
+  "do_objectID": "FEF6050C-164E-4E89-9A82-30D252BACDDD",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 94,
+    "width": 375,
+    "x": 0,
+    "y": 339
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "8143ACC4-CCC4-4FE6-99DD-B0058E35C3E6"
+    },
+    {
+      "class": "group",
+      "id": "E7B69D0D-C5E6-4282-B9F4-C7144F0A96CA"
+    },
+    {
+      "class": "group",
+      "id": "FB4EEF94-0FB2-48AA-B0CB-BA06E625C027"
+    }
+  ],
+  "name": "Poll",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "107DA4DB-59C1-4BC5-84F5-ABA18DACFAB2",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 75,
+    "width": 180,
+    "x": 98,
+    "y": 15
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 0,
+  "masterInfluenceEdgeMaxYPadding": 0,
+  "masterInfluenceEdgeMinXPadding": 0,
+  "masterInfluenceEdgeMinYPadding": 0,
+  "name": "components/goals/unset",
+  "nameIsFixed": false,
+  "originalObjectID": "4BF452B8-6C9F-4573-979B-E6D0CAFB8FA4",
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "F8970629-AAF2-43FF-9065-2D2E6F2993D3_stringValue",
+      "value": "Set steps goal"
+    }
+  ],
+  "overrides": {
+    "F8970629-AAF2-43FF-9065-2D2E6F2993D3": "Set steps goal"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "DA22EA04-1687-4A92-B674-7547B38C9551",
+  "verticalSpacing": 0
+}

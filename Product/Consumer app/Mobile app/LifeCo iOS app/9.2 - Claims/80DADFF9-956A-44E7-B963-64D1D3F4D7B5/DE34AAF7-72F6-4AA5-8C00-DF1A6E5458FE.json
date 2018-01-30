@@ -1,0 +1,57 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "DE34AAF7-72F6-4AA5-8C00-DF1A6E5458FE",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 40,
+    "width": 335,
+    "x": 20,
+    "y": 612
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 0,
+  "masterInfluenceEdgeMaxYPadding": 0,
+  "masterInfluenceEdgeMinXPadding": 0,
+  "masterInfluenceEdgeMinYPadding": 0,
+  "name": "button/core/default",
+  "nameIsFixed": false,
+  "originalObjectID": "CD0B32BA-FE41-4DAC-B2E2-253C7A27B015",
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "4EBB70CA-775D-427D-B938-58776B7920B1_stringValue",
+      "value": "Add or Remove Beneficiaries"
+    }
+  ],
+  "overrides": {
+    "4EBB70CA-775D-427D-B938-58776B7920B1": "Add or Remove Beneficiaries"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "12AFEA90-BCF4-475D-B477-D1A12E0092B1",
+  "verticalSpacing": 0
+}

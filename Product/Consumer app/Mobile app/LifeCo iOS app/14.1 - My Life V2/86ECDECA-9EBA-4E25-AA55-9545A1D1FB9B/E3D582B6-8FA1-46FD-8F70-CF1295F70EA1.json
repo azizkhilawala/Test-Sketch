@@ -1,0 +1,75 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "E3D582B6-8FA1-46FD-8F70-CF1295F70EA1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 145,
+    "width": 186,
+    "x": 1,
+    "y": 235
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 0,
+  "masterInfluenceEdgeMaxYPadding": 0,
+  "masterInfluenceEdgeMinXPadding": 0,
+  "masterInfluenceEdgeMinYPadding": 0,
+  "name": "components / mylife / section-tile",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "4540A93E-FF64-4420-971C-FA00DDC39157",
+      "overrideName": "B07106B0-FDF2-4430-8EFA-1780236AE1F9_stringValue",
+      "value": "Couch Potato"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "A728B265-D215-49C2-BF9B-198B74C13961",
+      "overrideName": "D6D8F777-F01A-4563-8BB7-F5E7CB95938E_symbolID",
+      "value": "D63F9DF9-9499-4984-8AE5-4D60E487DCD5"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "3F6C0D60-D272-4DEE-9F24-C311DEAB2990",
+      "overrideName": "D6D8F777-F01A-4563-8BB7-F5E7CB95938E/52512C42-4C6C-4E6C-B896-30835D26B860_symbolID",
+      "value": "163814DB-3A2F-46E5-A6E4-EDB0548C3105"
+    }
+  ],
+  "overrides": {
+    "B07106B0-FDF2-4430-8EFA-1780236AE1F9": "Couch Potato",
+    "D6D8F777-F01A-4563-8BB7-F5E7CB95938E": {
+      "52512C42-4C6C-4E6C-B896-30835D26B860": {
+        "symbolID": "163814DB-3A2F-46E5-A6E4-EDB0548C3105"
+      },
+      "symbolID": "D63F9DF9-9499-4984-8AE5-4D60E487DCD5"
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "EEDB3681-EA1A-4DD9-A9BB-A5D1BA62C028",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,71 @@
+{
+  "_class": "group",
+  "do_objectID": "A4CFB1A9-1922-4421-9443-4A53AAB8166E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 634,
+    "width": 355,
+    "x": 10,
+    "y": 33
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "4699C418-1EDD-40B8-A9E6-CE59A133BB51"
+    },
+    {
+      "class": "text",
+      "id": "0A318EFC-F82E-46B6-A9CC-A5D495BBFA0C"
+    },
+    {
+      "class": "group",
+      "id": "7C13E064-11B5-4610-95D9-6AB8FB631D95"
+    },
+    {
+      "class": "group",
+      "id": "E2A205CC-28A9-475E-B3A6-D0B1EEE5FC87"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "3E8EC410-F6DF-4965-BC04-115908091AE5"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B845C7DA-AD9C-442F-A85C-0DF75F261CB0"
+    }
+  ],
+  "name": "Review Card",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}
