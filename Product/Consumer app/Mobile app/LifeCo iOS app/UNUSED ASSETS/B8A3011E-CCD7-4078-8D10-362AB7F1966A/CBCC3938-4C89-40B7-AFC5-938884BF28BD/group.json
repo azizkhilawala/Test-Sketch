@@ -1,0 +1,67 @@
+{
+  "_class": "group",
+  "do_objectID": "CBCC3938-4C89-40B7-AFC5-938884BF28BD",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 430,
+    "width": 355,
+    "x": 10,
+    "y": 237
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "D32C3EA9-930A-4DFA-8867-89E3C28EA8AE"
+    },
+    {
+      "class": "text",
+      "id": "64CD42ED-5AF7-46A7-B5DF-9C97BBF89720"
+    },
+    {
+      "class": "group",
+      "id": "105EFF09-D78D-434F-A2C0-119C88095778"
+    },
+    {
+      "class": "group",
+      "id": "AC673996-924E-473D-9E9E-7AF77B4110E5"
+    },
+    {
+      "class": "group",
+      "id": "AF699084-7796-420C-8CE7-1F9343B71A20"
+    }
+  ],
+  "name": "Review Card",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

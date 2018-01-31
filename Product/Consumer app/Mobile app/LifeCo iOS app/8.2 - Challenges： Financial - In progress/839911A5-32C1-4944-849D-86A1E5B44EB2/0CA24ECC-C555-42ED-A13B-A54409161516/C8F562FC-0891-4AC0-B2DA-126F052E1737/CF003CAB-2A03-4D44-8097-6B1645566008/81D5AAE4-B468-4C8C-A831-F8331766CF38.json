@@ -1,0 +1,59 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "81D5AAE4-B468-4C8C-A831-F8331766CF38",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 10,
+    "width": 10,
+    "x": 0,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 0,
+  "masterInfluenceEdgeMaxYPadding": 0,
+  "masterInfluenceEdgeMinXPadding": 0,
+  "masterInfluenceEdgeMinYPadding": 0,
+  "name": "icon/ios/checkmark",
+  "nameIsFixed": false,
+  "originalObjectID": "8166E4DA-1BB7-4E0F-AC16-D05A6C384BEB",
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "5D74C6E5-340B-4E74-B3A8-9B9ECB59C42F_symbolID",
+      "value": "0BD1B0AC-7F49-4EB7-BD3D-3D5677E32DF7"
+    }
+  ],
+  "overrides": {
+    "5D74C6E5-340B-4E74-B3A8-9B9ECB59C42F": {
+      "symbolID": "0BD1B0AC-7F49-4EB7-BD3D-3D5677E32DF7"
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "DE46A47A-3229-4D35-A6AC-14752DFF7B3B",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,49 @@
+{
+  "_class": "group",
+  "do_objectID": "AB0C11AE-A08A-4F1B-BEF9-DCE9E231D511",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 221,
+    "width": 339,
+    "x": 18,
+    "y": 381
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "850FD7F5-54DD-496A-8C9E-B5FCE3E9A3A9"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "AB387CE2-13B0-4136-BBD9-6EAAE313071D"
+    }
+  ],
+  "name": "401k",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

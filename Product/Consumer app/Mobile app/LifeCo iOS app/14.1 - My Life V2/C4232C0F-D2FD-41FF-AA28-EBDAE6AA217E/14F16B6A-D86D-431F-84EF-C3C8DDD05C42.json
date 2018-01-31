@@ -1,0 +1,84 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "14F16B6A-D86D-431F-84EF-C3C8DDD05C42",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 145,
+    "width": 167,
+    "x": 192,
+    "y": 405
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 4,
+  "masterInfluenceEdgeMaxYPadding": 5,
+  "masterInfluenceEdgeMinXPadding": 4,
+  "masterInfluenceEdgeMinYPadding": 3,
+  "name": "components / mylife / section-tile",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "27FD6431-9EEE-478E-87A0-91F0A078B4E1",
+      "overrideName": "15308041-EA04-4B7F-B0A4-905BCD762FD7/CFE0F0AB-0B74-447B-A177-FB91D8E7E74E_symbolID",
+      "value": "163814DB-3A2F-46E5-A6E4-EDB0548C3105"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "28E96369-709D-4A58-8DCE-F503A31F4A7C",
+      "overrideName": "15308041-EA04-4B7F-B0A4-905BCD762FD7_symbolID",
+      "value": "CD0DEB3D-A66E-455C-BAFF-7908860ABDD0"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "36E0A92E-B0C1-4463-B0D4-89E1EF018110",
+      "overrideName": "310F91B4-6A7E-4D6E-9455-140F6BB6FAFA_stringValue",
+      "value": "Distracted Driver"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "53206EFF-739F-49DA-9C30-BB17BE1FF831",
+      "overrideName": "15308041-EA04-4B7F-B0A4-905BCD762FD7/FC91E423-A2C7-4A45-8249-120894FE04D8_symbolID",
+      "value": "163814DB-3A2F-46E5-A6E4-EDB0548C3105"
+    }
+  ],
+  "overrides": {
+    "15308041-EA04-4B7F-B0A4-905BCD762FD7": {
+      "CFE0F0AB-0B74-447B-A177-FB91D8E7E74E": {
+        "symbolID": "163814DB-3A2F-46E5-A6E4-EDB0548C3105"
+      },
+      "FC91E423-A2C7-4A45-8249-120894FE04D8": {
+        "symbolID": "163814DB-3A2F-46E5-A6E4-EDB0548C3105"
+      },
+      "symbolID": "CD0DEB3D-A66E-455C-BAFF-7908860ABDD0"
+    },
+    "310F91B4-6A7E-4D6E-9455-140F6BB6FAFA": "Distracted Driver"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "0977B575-F24E-470D-9CE6-BED56AC4FC33",
+  "verticalSpacing": 0
+}

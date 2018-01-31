@@ -1,0 +1,67 @@
+{
+  "_class": "group",
+  "do_objectID": "60D4DC2D-669D-4837-8297-338D90DD2F03",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 75,
+    "width": 180,
+    "x": 325,
+    "y": 240
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "EC5B0DF7-E160-4128-A3B3-337F196A4833"
+    },
+    {
+      "class": "text",
+      "id": "7A74E056-DDFE-4241-9D82-C6CEAD56B68B"
+    },
+    {
+      "class": "group",
+      "id": "42B996AD-8DEF-420E-B95B-4C05F46697E4"
+    },
+    {
+      "class": "text",
+      "id": "EED35C7C-1C12-41A8-8A2F-2DE02A6EAA05"
+    },
+    {
+      "class": "group",
+      "id": "0071E204-84BA-46D2-A427-EEEDDA2E1F20"
+    }
+  ],
+  "name": "Module - Cycling Distance",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

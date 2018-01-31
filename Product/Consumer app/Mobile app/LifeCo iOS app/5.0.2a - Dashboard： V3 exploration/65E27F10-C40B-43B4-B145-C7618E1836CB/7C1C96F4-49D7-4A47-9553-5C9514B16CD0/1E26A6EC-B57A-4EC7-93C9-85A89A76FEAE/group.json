@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "do_objectID": "1E26A6EC-B57A-4EC7-93C9-85A89A76FEAE",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 113,
+    "width": 113,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "89D29F5E-FF13-4DB4-B0B7-35E4C0931AC4"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "3A39D429-7B9E-434B-A71F-C9726B70370A"
+    },
+    {
+      "class": "text",
+      "id": "3EB6C47F-D836-47DE-AB58-79C71F40C55F"
+    },
+    {
+      "class": "group",
+      "id": "4A037494-E775-462F-BF20-FA8DDCC4A7CF"
+    },
+    {
+      "class": "group",
+      "id": "6945A4F1-DAC7-4F20-A3ED-188AA310EA56"
+    }
+  ],
+  "name": "Aziz/Dashboard/Goals/Steps",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

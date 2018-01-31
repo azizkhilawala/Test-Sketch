@@ -1,0 +1,63 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "84CB93E0-34A5-4E78-959E-052CEE60A3E0",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 50,
+    "width": 305,
+    "x": 15,
+    "y": 395
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 0,
+  "masterInfluenceEdgeMaxYPadding": 0,
+  "masterInfluenceEdgeMinXPadding": 0,
+  "masterInfluenceEdgeMinYPadding": 0,
+  "name": "button/link/default",
+  "nameIsFixed": false,
+  "originalObjectID": "1DB2C2C8-9FD0-4789-AB79-48494F129534",
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "DAADF641-C604-47BE-84DD-DFB48ADBE604_stringValue",
+      "value": "Connect your existing 125 FSA"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "4EBB70CA-775D-427D-B938-58776B7920B1_stringValue",
+      "value": "Continue"
+    }
+  ],
+  "overrides": {
+    "4EBB70CA-775D-427D-B938-58776B7920B1": "Continue",
+    "DAADF641-C604-47BE-84DD-DFB48ADBE604": "Connect your existing 125 FSA"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "93167DC5-7A61-40E0-B98E-A41342008B96",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,67 @@
+{
+  "_class": "group",
+  "do_objectID": "89BBCBF1-20F0-4E96-922C-1E8B8D4C8959",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 100,
+    "width": 375,
+    "x": 0,
+    "y": 396
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "E60A60AA-804B-4F0F-B11F-09F000F18BCE"
+    },
+    {
+      "class": "group",
+      "id": "F86B30A1-CBB9-441D-802B-88ACCABB6F1A"
+    },
+    {
+      "class": "group",
+      "id": "15CA2258-E958-442D-995D-290B69DF4D38"
+    },
+    {
+      "class": "text",
+      "id": "F7F70AAD-8CF8-4CAD-8AB5-2A2F263056EC"
+    },
+    {
+      "class": "text",
+      "id": "9D1C44A8-319B-4D92-9F77-6E6810730BC7"
+    }
+  ],
+  "name": "Cycling",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

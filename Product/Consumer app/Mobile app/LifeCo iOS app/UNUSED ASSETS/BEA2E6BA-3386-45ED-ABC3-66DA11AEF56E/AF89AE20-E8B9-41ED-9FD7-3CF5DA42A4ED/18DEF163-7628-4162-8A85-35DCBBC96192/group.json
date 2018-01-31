@@ -1,0 +1,77 @@
+{
+  "_class": "group",
+  "do_objectID": "18DEF163-7628-4162-8A85-35DCBBC96192",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 20,
+    "width": 375,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "73CBBA9E-8C68-4D38-8F6D-ECDA6426B2D4"
+    },
+    {
+      "class": "group",
+      "id": "183E47A9-3CCB-4567-9A70-FEC22D523146"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "67B77B3D-7012-43BF-9882-557C7C7D7306"
+    },
+    {
+      "class": "text",
+      "id": "52591AB3-7A4A-4CAF-8940-8A4FA599B3CD"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "EB24103E-0C22-4B6D-9F4B-7A9E4D4685DA"
+    },
+    {
+      "class": "text",
+      "id": "AB97F361-364A-4EC6-9DA3-80E7ED17214D"
+    },
+    {
+      "class": "group",
+      "id": "0ABAB1F4-B6A0-4875-8BED-90C47E96FA6D"
+    }
+  ],
+  "name": "Status Bar/White/Base",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.invisionlabs.library": {
+      "original-layer": {
+        "originalID": "82081B53-A465-4C2D-A35B-64DE05A580AB",
+        "version": 2
+      }
+    }
+  }
+}

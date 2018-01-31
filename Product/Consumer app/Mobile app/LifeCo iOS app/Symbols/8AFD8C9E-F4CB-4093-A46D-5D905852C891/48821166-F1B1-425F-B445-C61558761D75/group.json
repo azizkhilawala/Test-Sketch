@@ -1,0 +1,50 @@
+{
+  "_class": "group",
+  "do_objectID": "48821166-F1B1-425F-B445-C61558761D75",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 51,
+    "width": 60,
+    "x": 0,
+    "y": 5
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "F3F14452-A04B-4274-BFDA-BC73F1718C4B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "7B3A3076-C705-4DB2-84A7-A33C57980ABB"
+    }
+  ],
+  "name": "shopping-cart",
+  "nameIsFixed": true,
+  "originalObjectID": "48821166-F1B1-425F-B445-C61558761D75",
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

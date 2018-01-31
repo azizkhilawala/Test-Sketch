@@ -1,0 +1,63 @@
+{
+  "_class": "group",
+  "do_objectID": "FB3AEA3B-0B3E-4D6A-A4DE-B720AB38D8B8",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 102,
+    "width": 375,
+    "x": 0,
+    "y": 518
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "A27B8DA0-5715-4068-A335-DD73D4CB9D15"
+    },
+    {
+      "class": "text",
+      "id": "18A5381B-9A95-4D40-B542-07454DCC799B"
+    },
+    {
+      "class": "text",
+      "id": "DD4E0DBD-F0E7-4953-B4CE-FAB77C424BD3"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "75B8FF83-701C-41BC-AEEB-6764BBF7B0BD"
+    }
+  ],
+  "name": "Google Play",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

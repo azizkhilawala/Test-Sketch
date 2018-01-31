@@ -1,0 +1,59 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "22DF8C93-3D0A-49BC-A2B0-49AED0404641",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 40,
+    "width": 40,
+    "x": 202,
+    "y": 79
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 0,
+  "masterInfluenceEdgeMaxYPadding": 0,
+  "masterInfluenceEdgeMinXPadding": 0,
+  "masterInfluenceEdgeMinYPadding": 0,
+  "name": "icon / ui / question",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "897D65AC-418C-4E59-A9C5-D3BB20CE7E10",
+      "overrideName": "28DA1B47-A164-40AE-9830-B551AC5B413F_symbolID",
+      "value": "0BD1B0AC-7F49-4EB7-BD3D-3D5677E32DF7"
+    }
+  ],
+  "overrides": {
+    "28DA1B47-A164-40AE-9830-B551AC5B413F": {
+      "symbolID": "0BD1B0AC-7F49-4EB7-BD3D-3D5677E32DF7"
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "343F3A24-346A-45B7-A35D-C89DF2F097E6",
+  "verticalSpacing": 0
+}

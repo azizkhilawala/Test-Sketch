@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "do_objectID": "C3195951-77E2-43ED-AC81-B48707A6832F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 44,
+    "width": 375,
+    "x": 0,
+    "y": 44
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "35BC8E89-DFED-4239-9359-FCEA6592082E"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "6F015CE8-D6F9-402C-9767-9AA678B421C3"
+    },
+    {
+      "class": "group",
+      "id": "ED2360BB-99E4-44C9-8705-3924BA7A3162"
+    },
+    {
+      "class": "group",
+      "id": "5A754D9C-40C8-42AB-86D9-ACE14EAFD1C7"
+    }
+  ],
+  "name": "floors",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

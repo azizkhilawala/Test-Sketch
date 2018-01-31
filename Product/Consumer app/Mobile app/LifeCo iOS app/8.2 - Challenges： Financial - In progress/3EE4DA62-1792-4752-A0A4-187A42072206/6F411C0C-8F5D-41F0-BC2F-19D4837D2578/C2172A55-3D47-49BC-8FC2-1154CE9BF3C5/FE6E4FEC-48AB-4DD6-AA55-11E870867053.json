@@ -1,0 +1,59 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "FE6E4FEC-48AB-4DD6-AA55-11E870867053",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 12,
+    "width": 12,
+    "x": 0,
+    "y": 1
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 0,
+  "masterInfluenceEdgeMaxYPadding": 0,
+  "masterInfluenceEdgeMinXPadding": 0,
+  "masterInfluenceEdgeMinYPadding": 0,
+  "name": "icon/currency/dollar",
+  "nameIsFixed": false,
+  "originalObjectID": "AC318924-2307-4845-8E95-5BBB149AA411",
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "50C8CDD9-0A93-428E-8BAE-1639655ADEB1_symbolID",
+      "value": "99E88447-C9F2-4EE7-B236-8C60CC6235EC"
+    }
+  ],
+  "overrides": {
+    "50C8CDD9-0A93-428E-8BAE-1639655ADEB1": {
+      "symbolID": "99E88447-C9F2-4EE7-B236-8C60CC6235EC"
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "00114705-150E-4F91-A9B2-E3B50D0BCC1F",
+  "verticalSpacing": 0
+}

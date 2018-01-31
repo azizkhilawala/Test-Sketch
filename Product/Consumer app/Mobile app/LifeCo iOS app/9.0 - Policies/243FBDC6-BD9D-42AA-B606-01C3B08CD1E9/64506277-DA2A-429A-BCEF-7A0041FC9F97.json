@@ -1,0 +1,59 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "64506277-DA2A-429A-BCEF-7A0041FC9F97",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 90,
+    "width": 90,
+    "x": 143,
+    "y": 205
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 0,
+  "masterInfluenceEdgeMaxYPadding": 1,
+  "masterInfluenceEdgeMinXPadding": 0,
+  "masterInfluenceEdgeMinYPadding": 0,
+  "name": "icon/ui/smile/shock",
+  "nameIsFixed": false,
+  "originalObjectID": "E284CE35-3426-40EB-A1C2-9BF09AF29B49",
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "7CF69F67-E10E-4290-B7D5-92DB59DD4744_symbolID",
+      "value": "D94F65FC-0ECF-4C94-A2D9-7BF3EB36AE30"
+    }
+  ],
+  "overrides": {
+    "7CF69F67-E10E-4290-B7D5-92DB59DD4744": {
+      "symbolID": "D94F65FC-0ECF-4C94-A2D9-7BF3EB36AE30"
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "31143EE9-6DFE-4255-A8D0-8919373650AA",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "do_objectID": "354867D6-5A73-44CF-88B8-EE7A0624B6EA",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 152,
+    "width": 346,
+    "x": 15,
+    "y": 36
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "13EF0D7A-EAD6-4497-9375-1555592507B8"
+    },
+    {
+      "class": "group",
+      "id": "B5EA91EF-46AB-4049-B61B-DC74D0727187"
+    },
+    {
+      "class": "group",
+      "id": "C5ACBC0F-3ACD-4063-AF35-1233D4AD090B"
+    },
+    {
+      "class": "text",
+      "id": "024C888B-5525-4853-8FF5-7B49577BE07A"
+    },
+    {
+      "class": "text",
+      "id": "DEEAD3DC-A68B-42BE-B2B0-5817EB18EC43"
+    }
+  ],
+  "name": "world traveller",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

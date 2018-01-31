@@ -1,0 +1,67 @@
+{
+  "_class": "group",
+  "do_objectID": "928C8C8B-1C55-4B9D-95EC-6D805E3053D3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 100,
+    "width": 375,
+    "x": 0,
+    "y": 198
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "4CECDEA3-D5D3-4C95-BD3F-4C203A4F314C"
+    },
+    {
+      "class": "group",
+      "id": "760A74EE-D3A6-4681-8D27-9CE770094790"
+    },
+    {
+      "class": "group",
+      "id": "B889FD9C-1A3C-48C4-994A-1F53A72A8F15"
+    },
+    {
+      "class": "text",
+      "id": "FE63444C-EC4F-4D2E-A2A4-8B3EA000DF7D"
+    },
+    {
+      "class": "text",
+      "id": "673A10B6-8DC9-4DC5-8955-7C58767BBC2F"
+    }
+  ],
+  "name": "Calories - In Progress",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

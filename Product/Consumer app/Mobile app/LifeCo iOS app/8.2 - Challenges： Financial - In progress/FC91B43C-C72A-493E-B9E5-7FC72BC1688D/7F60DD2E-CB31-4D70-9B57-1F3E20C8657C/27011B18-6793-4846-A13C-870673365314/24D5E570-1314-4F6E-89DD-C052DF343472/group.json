@@ -1,0 +1,49 @@
+{
+  "_class": "group",
+  "do_objectID": "24D5E570-1314-4F6E-89DD-C052DF343472",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 56.17891373801919,
+    "width": 355,
+    "x": 0,
+    "y": 177.7859424920134
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "E3A3ED71-D073-4452-8B1C-E7AD3BBE7337"
+    },
+    {
+      "class": "text",
+      "id": "E6D9107F-F0DB-4D35-B9E8-0BCD11C835DF"
+    }
+  ],
+  "name": "Views/Action Sheet/Base Sheet",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

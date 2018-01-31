@@ -1,0 +1,59 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "82090FC8-4E2D-40AE-B242-04A5AA43C9A3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 24,
+    "width": 24,
+    "x": 0,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 0,
+  "masterInfluenceEdgeMaxYPadding": 0,
+  "masterInfluenceEdgeMinXPadding": 0,
+  "masterInfluenceEdgeMinYPadding": 0,
+  "name": "icon/health/steps",
+  "nameIsFixed": false,
+  "originalObjectID": "BB4F460D-0874-43DA-8F84-348777CC6680",
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "E7559C04-8EDB-4600-8174-8C4EE9A345B7_symbolID",
+      "value": "A0414B12-FF56-4F6E-94F4-D0B9EBCDB21A"
+    }
+  ],
+  "overrides": {
+    "E7559C04-8EDB-4600-8174-8C4EE9A345B7": {
+      "symbolID": "A0414B12-FF56-4F6E-94F4-D0B9EBCDB21A"
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "8E684E83-465C-4F80-8B1D-E607E90C155F",
+  "verticalSpacing": 0
+}

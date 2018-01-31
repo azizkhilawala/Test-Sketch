@@ -1,0 +1,78 @@
+{
+  "_class": "group",
+  "do_objectID": "80CED259-40E4-4339-91C2-8E2D66BB6B0C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 144,
+    "width": 270,
+    "x": -211,
+    "y": 1489
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "5318AB25-0B55-4964-B726-BC2D296B2F9D"
+    },
+    {
+      "class": "group",
+      "id": "B75B08CC-69A8-4CB1-A225-C88704260A13"
+    },
+    {
+      "class": "text",
+      "id": "1E344A85-1FF8-473C-851E-98E87EEB2106"
+    },
+    {
+      "class": "text",
+      "id": "884B02D9-E0A0-4B6D-9AEB-F6C80BDE9C0A"
+    }
+  ],
+  "name": "Popup - Interested in Product",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    },
+    "com.invisionlabs.library": {
+      "original-layer": {
+        "originalID": "B68AE76C-59FB-4300-A7E6-43E830C81030",
+        "version": 2
+      }
+    }
+  }
+}

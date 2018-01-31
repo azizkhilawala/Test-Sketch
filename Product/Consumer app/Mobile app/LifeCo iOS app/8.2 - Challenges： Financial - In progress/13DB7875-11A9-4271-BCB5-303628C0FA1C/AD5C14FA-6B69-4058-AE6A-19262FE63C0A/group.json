@@ -1,0 +1,59 @@
+{
+  "_class": "group",
+  "do_objectID": "AD5C14FA-6B69-4058-AE6A-19262FE63C0A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 170,
+    "width": 375,
+    "x": 0,
+    "y": 109
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "D79C20B2-496D-4363-800E-FE85D86C8433"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "C088ADDB-0740-4C7E-AA37-E7D86B39FDEE"
+    },
+    {
+      "class": "group",
+      "id": "5F3883D1-2B36-4578-B10F-D67208BA255B"
+    }
+  ],
+  "name": "Hero Banner",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

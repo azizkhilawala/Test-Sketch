@@ -1,0 +1,152 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.9529411764705882,
+    "green": 0.9529411764705882,
+    "red": 0.9529411764705882
+  },
+  "do_objectID": "62CBE291-AB3C-42FE-9AA1-D1BEB039DE5E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 667,
+    "width": 375,
+    "x": 5876,
+    "y": 955
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "gridSize": 10,
+    "isEnabled": false,
+    "thickGridTimes": 10
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+      10,
+      365
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "1889ECFA-BDD4-4ABA-A350-A00C8C672AF7"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "4E9CD5A6-D273-44CC-90B7-69F9B3C2CAAA"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F4288D92-BB3A-4852-81D7-2E7894E6B404"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "D9ABD87E-6953-47B9-B68C-EA665B4A2224"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "5D10D267-2937-4357-AD64-F8D503CF7782"
+    },
+    {
+      "class": "text",
+      "id": "55D8CB89-4110-47E6-B9ED-5BA967549ECA"
+    },
+    {
+      "class": "text",
+      "id": "EA7A4E51-3436-4D54-B2B8-7BDC4DFB254D"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "6C19292D-38CD-4F34-A5B5-DFEEA744801F"
+    },
+    {
+      "class": "text",
+      "id": "A26EF616-ED69-45DC-9838-A6C10FD1DD8E"
+    },
+    {
+      "class": "text",
+      "id": "89B1F15E-97D5-4E04-9250-5E62CBD0E01F"
+    },
+    {
+      "class": "text",
+      "id": "1B7281B1-5701-42FB-BB8B-8521F4C33A70"
+    }
+  ],
+  "name": "Invite beneficiaries - Email",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 0,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+      20,
+      64,
+      617
+    ]
+  }
+}

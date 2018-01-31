@@ -1,0 +1,58 @@
+{
+  "_class": "group",
+  "do_objectID": "9127CA9F-E75F-4B76-9255-43E86ED47298",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 58,
+    "width": 335,
+    "x": 21,
+    "y": 312
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "CA2F2BF9-24E2-413E-8756-D1BE130A34A3"
+    },
+    {
+      "class": "group",
+      "id": "96704407-DF86-45A3-900F-94E4511645C0"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "DF5EEFA4-2DE5-4148-A78D-E293CBF6627A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E580A1A4-A748-468A-B51F-935BD85DE89D"
+    }
+  ],
+  "name": "Module - Calories",
+  "nameIsFixed": true,
+  "originalObjectID": "D540324A-E304-47C6-B0CA-17826CB3E9F5",
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

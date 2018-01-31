@@ -1,0 +1,66 @@
+{
+  "_class": "group",
+  "do_objectID": "D5DD0CD0-EF62-4598-827F-2769DA5ED4A0",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 70,
+    "width": 375,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "8D40C99C-2DEA-446E-9C73-AA8D8BD6DB11"
+    },
+    {
+      "class": "text",
+      "id": "BC96B64A-36AD-4C06-97E1-9916661F035B"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "DF04D47D-2FFB-4747-A915-EFF82C1F036E"
+    },
+    {
+      "class": "group",
+      "id": "BF334F9E-1FBA-4D51-8EC6-162BA01CB7D9"
+    },
+    {
+      "class": "text",
+      "id": "A54BEBDB-DABC-4D53-9BB7-BF13FD2F6B13"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "4447BDC9-30A4-442C-8A26-59E12105B722"
+    }
+  ],
+  "name": "safari-search",
+  "nameIsFixed": true,
+  "originalObjectID": "D5DD0CD0-EF62-4598-827F-2769DA5ED4A0",
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

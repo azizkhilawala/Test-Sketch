@@ -1,0 +1,59 @@
+{
+  "_class": "group",
+  "do_objectID": "7C54EB21-5FF2-43B8-9062-AAFA238FEE26",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 95,
+    "width": 375,
+    "x": 0,
+    "y": 578
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "E10BD255-004A-4B29-B60B-BAA6F9F26A0A"
+    },
+    {
+      "class": "group",
+      "id": "D4207F03-F1E2-4A50-BE7B-CBE78254062A"
+    },
+    {
+      "class": "group",
+      "id": "83EA5095-08EF-4C6B-B1D4-DE8050288B87"
+    }
+  ],
+  "name": "Survey",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

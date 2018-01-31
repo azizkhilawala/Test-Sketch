@@ -1,0 +1,99 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "85B9035F-0214-4B2F-8CE9-1E435965E1E2",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 261,
+    "width": 375,
+    "x": 0,
+    "y": 406
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 0,
+  "masterInfluenceEdgeMaxYPadding": 0,
+  "masterInfluenceEdgeMinXPadding": 1,
+  "masterInfluenceEdgeMinYPadding": 0,
+  "name": "components/keyboard/date-picker/text-scrolled",
+  "nameIsFixed": false,
+  "originalObjectID": "403D7ADC-D341-45AA-8F6B-7437A3370038",
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "77027E4A-0086-45CB-89AE-B7FD18EF2986_stringValue",
+      "value": "5 feet   1 inches"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "F80800B2-CAEA-454A-A58B-2109DF7135B0_stringValue",
+      "value": "5 feet   2 inches"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "5C1B17AD-3B5C-4996-989B-8D1ADC75BC7F_stringValue",
+      "value": "5 feet   3 inches"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "21464ADA-215F-4FAD-9631-CF079BB3F169_stringValue",
+      "value": "5 feet   4 inches"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "D3763A0B-DAD4-48F3-A88D-5B4EAE36D320_stringValue",
+      "value": "5 feet   5 inches"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "18B9529A-DBA0-4440-8388-F8D7672B897E_stringValue",
+      "value": "5 feet   6 inches"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "AE205ADD-3F12-4772-853B-08A9DA3B9422_stringValue",
+      "value": "5 feet   7 inches"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "6013516C-1E66-4FE4-A998-674CADFA1AD9_stringValue",
+      "value": "Done"
+    }
+  ],
+  "overrides": {
+    "18B9529A-DBA0-4440-8388-F8D7672B897E": "5 feet   6 inches",
+    "21464ADA-215F-4FAD-9631-CF079BB3F169": "5 feet   4 inches",
+    "5C1B17AD-3B5C-4996-989B-8D1ADC75BC7F": "5 feet   3 inches",
+    "6013516C-1E66-4FE4-A998-674CADFA1AD9": "Done",
+    "77027E4A-0086-45CB-89AE-B7FD18EF2986": "5 feet   1 inches",
+    "AE205ADD-3F12-4772-853B-08A9DA3B9422": "5 feet   7 inches",
+    "D3763A0B-DAD4-48F3-A88D-5B4EAE36D320": "5 feet   5 inches",
+    "F80800B2-CAEA-454A-A58B-2109DF7135B0": "5 feet   2 inches"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "5C051CF3-7EBF-4302-B1DE-9D16C8D156ED",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,59 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "3D3406A1-4BC5-41AC-86D1-1B2EB12ABC61",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 10,
+    "width": 10,
+    "x": 355,
+    "y": 23
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 0,
+  "masterInfluenceEdgeMaxYPadding": 0,
+  "masterInfluenceEdgeMinXPadding": 0,
+  "masterInfluenceEdgeMinYPadding": 0,
+  "name": "icon/ios/cancel",
+  "nameIsFixed": false,
+  "originalObjectID": "3D3406A1-4BC5-41AC-86D1-1B2EB12ABC61",
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "1D9BA895-CE94-4198-AEE5-F8CB1BAC1B8F_symbolID",
+      "value": "D94F65FC-0ECF-4C94-A2D9-7BF3EB36AE30"
+    }
+  ],
+  "overrides": {
+    "1D9BA895-CE94-4198-AEE5-F8CB1BAC1B8F": {
+      "symbolID": "D94F65FC-0ECF-4C94-A2D9-7BF3EB36AE30"
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "F92215BB-8127-4746-A202-0A82D661D922",
+  "verticalSpacing": 0
+}

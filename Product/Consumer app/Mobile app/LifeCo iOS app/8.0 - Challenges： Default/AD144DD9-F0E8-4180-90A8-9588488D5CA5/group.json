@@ -1,0 +1,74 @@
+{
+  "_class": "group",
+  "do_objectID": "AD144DD9-F0E8-4180-90A8-9588488D5CA5",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 148,
+    "width": 270,
+    "x": 10644,
+    "y": 2314
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "00B8EEEC-3327-481B-B857-53AB4297F743"
+    },
+    {
+      "class": "group",
+      "id": "AD6D5CF5-781B-4722-904E-AA75B5DFD008"
+    },
+    {
+      "class": "text",
+      "id": "618EE51F-1C16-4DE0-B191-B30DEF29980F"
+    }
+  ],
+  "name": "Popup - Quit Challenge Sorry",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    },
+    "com.invisionlabs.library": {
+      "original-layer": {
+        "originalID": "B68AE76C-59FB-4300-A7E6-43E830C81030",
+        "version": 2
+      }
+    }
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "A0CCF9B2-9B48-408B-B9FE-2BEE893776E3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 72,
+    "width": 345,
+    "x": 15,
+    "y": 249
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 3,
+  "masterInfluenceEdgeMaxYPadding": 4,
+  "masterInfluenceEdgeMinXPadding": 3,
+  "masterInfluenceEdgeMinYPadding": 2,
+  "name": "components / mylife / beeeeeeep",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "24ECD604-6EE2-4F6F-905E-F5E18543363B",
+      "overrideName": "537F65C2-A7BB-4FB2-B478-C960919AF0B6_stringValue",
+      "value": "Financial Score"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "20C8318F-B6B4-41AC-B4F6-B2CC491EDF13",
+      "overrideName": "C78E7376-CB94-4B53-AE0E-A151883F5449_stringValue",
+      "value": "87"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "EE304E11-24CF-478B-9F9B-FB4C4EEA526E",
+      "overrideName": "30F1344E-D66A-4FE0-9E9B-045BB1BE6489_symbolID",
+      "value": "970C0D15-38AA-4566-880A-D0755844AFB6"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "4DEEBD97-30BD-444B-A0F0-F3F0F5CA57C8",
+      "overrideName": "30F1344E-D66A-4FE0-9E9B-045BB1BE6489/D919CC2B-FC11-49CE-88E4-F5BA4BDE7267_symbolID",
+      "value": "163814DB-3A2F-46E5-A6E4-EDB0548C3105"
+    }
+  ],
+  "overrides": {
+    "30F1344E-D66A-4FE0-9E9B-045BB1BE6489": {
+      "D919CC2B-FC11-49CE-88E4-F5BA4BDE7267": {
+        "symbolID": "163814DB-3A2F-46E5-A6E4-EDB0548C3105"
+      },
+      "symbolID": "970C0D15-38AA-4566-880A-D0755844AFB6"
+    },
+    "537F65C2-A7BB-4FB2-B478-C960919AF0B6": "Financial Score",
+    "C78E7376-CB94-4B53-AE0E-A151883F5449": "87"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "15D13D70-2064-4CC1-ADAE-0A2D645B971E",
+  "verticalSpacing": 0
+}

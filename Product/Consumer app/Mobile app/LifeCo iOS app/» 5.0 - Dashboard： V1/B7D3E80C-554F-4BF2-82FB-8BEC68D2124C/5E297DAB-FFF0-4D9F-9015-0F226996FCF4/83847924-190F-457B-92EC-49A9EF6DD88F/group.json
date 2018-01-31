@@ -1,0 +1,59 @@
+{
+  "_class": "group",
+  "do_objectID": "83847924-190F-457B-92EC-49A9EF6DD88F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 90,
+    "width": 375,
+    "x": 0,
+    "y": 131
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "2C1BEB45-D417-4B67-834B-B69D3ECC8ED8"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "AE088A8E-62EF-4225-811D-D98CD8F9443C"
+    },
+    {
+      "class": "group",
+      "id": "5416846F-A9C9-4DA0-B76E-9883E1588428"
+    }
+  ],
+  "name": "Quiz",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

@@ -1,0 +1,148 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.9529411764705882,
+    "green": 0.9529411764705882,
+    "red": 0.9529411764705882
+  },
+  "do_objectID": "55CD3382-4808-4805-8399-A96E13C6B68B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 667,
+    "width": 375,
+    "x": -466,
+    "y": -184
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "gridSize": 10,
+    "isEnabled": false,
+    "thickGridTimes": 10
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+      10,
+      365
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "0DF1E8BD-7975-4141-8605-CF5A7EEFBE40"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "F592C978-001D-4F0F-AF45-C6CB4EE7FDAA"
+    },
+    {
+      "class": "group",
+      "id": "17407781-13DC-4B87-BF4D-F865BED0C201"
+    },
+    {
+      "class": "group",
+      "id": "F8A912F9-F7B9-4647-9B44-C121A91EE6F3"
+    },
+    {
+      "class": "text",
+      "id": "16467A16-DD3F-4D6A-95D9-045B73A987E2"
+    },
+    {
+      "class": "group",
+      "id": "A171B36C-CD1A-4F93-8309-885F9F8A6BAE"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "6E711C72-855A-40F8-92DC-62C11A7828B3"
+    },
+    {
+      "class": "group",
+      "id": "CC94BB03-3ABA-4B1D-8C9E-B3B1B58D7F79"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "9F00B728-FF98-4C4A-ACB4-C99F8F679A44"
+    },
+    {
+      "class": "group",
+      "id": "43FCE158-7D5B-467F-9541-A284123B3272"
+    }
+  ],
+  "name": "Challenge - Beat my best reschedule",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 0,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+      20,
+      64,
+      617
+    ]
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "_class": "group",
+  "do_objectID": "818B99FF-FA53-4938-B4F1-CF8AD5605C3B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 41,
+    "width": 288,
+    "x": 44,
+    "y": 80
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "B39CE05F-A0BA-4F15-BA75-FF9001BDD3EA"
+    },
+    {
+      "class": "text",
+      "id": "C0A677AA-E74C-47A2-A160-B3BF2397C72D"
+    }
+  ],
+  "name": "Hero Text",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

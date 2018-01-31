@@ -1,0 +1,63 @@
+{
+  "_class": "group",
+  "do_objectID": "090F8129-4D1B-44D6-81D7-CD3905E3C80D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 102,
+    "width": 375,
+    "x": 0,
+    "y": 720
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "EA3A18F4-4FFE-4064-92CC-931D6EF78D37"
+    },
+    {
+      "class": "text",
+      "id": "FE7B4161-26D8-4AD5-B1A5-6E355AFF5306"
+    },
+    {
+      "class": "text",
+      "id": "FFDDB9E4-F72C-4173-AF1F-5FB15AEB2D2C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "BD8574EB-B17F-4543-B845-C333CC6A8F53"
+    }
+  ],
+  "name": "Walmart",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

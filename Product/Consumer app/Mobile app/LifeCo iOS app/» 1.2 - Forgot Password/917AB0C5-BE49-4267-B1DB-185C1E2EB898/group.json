@@ -1,0 +1,72 @@
+{
+  "_class": "group",
+  "do_objectID": "917AB0C5-BE49-4267-B1DB-185C1E2EB898",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 144,
+    "width": 270,
+    "x": 2245,
+    "y": 96
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "AC7705FB-E59E-42E0-AD63-C2DA1E2C2283"
+    },
+    {
+      "class": "text",
+      "id": "EA80AC33-4BC1-4396-9ED4-1A96B44AF975"
+    },
+    {
+      "class": "group",
+      "id": "EC1DB064-1054-4B7E-9553-A2AFCB4D7E6A"
+    },
+    {
+      "class": "text",
+      "id": "CD6DFC23-4DE6-46D8-BDDD-60465430C847"
+    }
+  ],
+  "name": "Pop - Message Sent (Forgot PW)",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

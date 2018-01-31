@@ -1,0 +1,50 @@
+{
+  "_class": "group",
+  "do_objectID": "C948ABB3-42A8-4E81-A6CC-81D4F740873F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 43,
+    "width": 38,
+    "x": 12.21621621621622,
+    "y": 11
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "43ECB61D-D489-4B5E-BD8D-80AB34A7FFE5"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "691CD746-EBC4-4D73-87E3-C45683C5E0B3"
+    }
+  ],
+  "name": "health category",
+  "nameIsFixed": true,
+  "originalObjectID": "02A93DC8-C56F-400A-B920-0027B8060F6E",
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "_class": "group",
+  "do_objectID": "AA29D229-9652-48A4-9B70-C40ABBC5EAFA",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 100,
+    "width": 375,
+    "x": 0,
+    "y": 297
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "CFF71384-2511-4363-881C-215D4AF52344"
+    },
+    {
+      "class": "group",
+      "id": "CB61567C-51B4-40B6-97AF-437F8D2F5DDB"
+    },
+    {
+      "class": "group",
+      "id": "F28F673E-FDD4-41B4-862F-E62FF6206F79"
+    },
+    {
+      "class": "text",
+      "id": "E4C1804E-6DA1-4878-B472-A8196F228C72"
+    },
+    {
+      "class": "text",
+      "id": "E5F01C65-9653-4279-A06A-D69822C33B53"
+    }
+  ],
+  "name": "Floors",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

@@ -1,0 +1,184 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "do_objectID": "BEA2E6BA-3386-45ED-ABC3-66DA11AEF56E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 667,
+    "width": 375,
+    "x": -951,
+    "y": -1528
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "gridSize": 10,
+    "isEnabled": false,
+    "thickGridTimes": 10
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+      10,
+      365
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "619A271B-F145-4841-B61D-9D0B67E799EC"
+    },
+    {
+      "class": "group",
+      "id": "B392E373-D29B-4D64-A4CD-6FBB82E0EDC1"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "DD7EB4C6-0539-48C3-A7A6-38988C53BF63"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "428F9DF3-FFC7-44F6-B3AD-1229EEFAEEF7"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "B58EB4EC-FAD0-431D-9D5C-C9936F282975"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "26A94ED2-F766-4004-9AC6-87CEEDA4508E"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "835F457E-5B6B-4BCB-9C14-48F72523FEC7"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "82B8DF4E-EA1A-4934-B3DF-CDC1DFA61C36"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "A60E9A8B-802A-4DFC-969F-755AD486E9F3"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "E836C1EA-21B0-4E38-B666-CE27D934258D"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "5894C6FF-18C2-4AF1-88E8-00156725751D"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "FD629C71-096C-4ED9-8F99-0EBC8913ED03"
+    },
+    {
+      "class": "group",
+      "id": "A1D77DD3-58FE-42E0-B79C-45D688340E97"
+    },
+    {
+      "class": "group",
+      "id": "C8D05B00-CB82-4459-8FDA-049B177AF0FE"
+    },
+    {
+      "class": "group",
+      "id": "AA7D45EF-CED2-4922-8E33-A98D12C86B84"
+    },
+    {
+      "class": "group",
+      "id": "5EC14ED3-1080-4AFF-B42B-D47351D9F27B"
+    },
+    {
+      "class": "group",
+      "id": "47BF661C-4B9C-4E72-A7D0-49BD0A9C2C6C"
+    },
+    {
+      "class": "group",
+      "id": "810D071B-0BD6-4D04-A50C-F7D9E92B7C43"
+    },
+    {
+      "class": "group",
+      "id": "AF89AE20-E8B9-41ED-9FD7-3CF5DA42A4ED"
+    }
+  ],
+  "name": "Rewards - Main",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 0,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+      20,
+      64,
+      617
+    ]
+  }
+}

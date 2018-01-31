@@ -1,0 +1,50 @@
+{
+  "_class": "group",
+  "do_objectID": "27040AE5-C123-4ED7-9326-4DE91B438817",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 70,
+    "width": 67,
+    "x": 2,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "5A5AE8B3-73E8-4473-9B2D-90BFC5A6A802"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F42E8E01-2702-47E6-9020-9F1F77809B98"
+    }
+  ],
+  "name": "spinner",
+  "nameIsFixed": true,
+  "originalObjectID": "27040AE5-C123-4ED7-9326-4DE91B438817",
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

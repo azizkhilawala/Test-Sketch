@@ -1,0 +1,65 @@
+{
+  "_class": "group",
+  "do_objectID": "C310116B-C4C0-4109-9DA8-D9C9A49F19A7",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 200,
+    "width": 295,
+    "x": 40,
+    "y": 249
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "6370B11D-6BF8-429A-B38C-30CB80410602"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "40CDC7FE-7ADB-4245-B192-E119EC435F08"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "D8EA63CD-232A-49D7-AC54-57598F19C0CA"
+    },
+    {
+      "class": "text",
+      "id": "09374169-D98B-44EB-9B52-0EDEF1E906F8"
+    },
+    {
+      "class": "text",
+      "id": "D6141F0E-38DB-4B6A-BAB4-1643877E4969"
+    },
+    {
+      "class": "group",
+      "id": "8C838D18-6316-4429-8803-A30C4B50CD93"
+    }
+  ],
+  "name": "CharitableGiving",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

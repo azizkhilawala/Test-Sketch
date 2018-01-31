@@ -1,0 +1,63 @@
+{
+  "_class": "group",
+  "do_objectID": "E2A205CC-28A9-475E-B3A6-D0B1EEE5FC87",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 141,
+    "width": 335,
+    "x": 10,
+    "y": 173
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "E1BE2482-C01E-46BC-AE0E-095E5B87AE45"
+    },
+    {
+      "class": "group",
+      "id": "FB0CF2C7-B744-4414-AA51-D6766CBC8687"
+    },
+    {
+      "class": "group",
+      "id": "A6CB3084-2341-4E8C-96D7-79A4D6CABCF6"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "5F3CC1F0-4C95-480C-97D8-3E9E5267D5EA"
+    }
+  ],
+  "name": "Breakdown",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

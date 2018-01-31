@@ -1,0 +1,63 @@
+{
+  "_class": "group",
+  "do_objectID": "8F243DC9-1AB2-4855-ACBA-6426F78F672C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 102,
+    "width": 375,
+    "x": 0,
+    "y": 215
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "70EA50F1-DE83-4ADD-9B36-BEBF5E0A2A2C"
+    },
+    {
+      "class": "text",
+      "id": "46FD6F5D-D856-4053-97AF-B822B178FEC0"
+    },
+    {
+      "class": "text",
+      "id": "CA3696CB-F997-442D-A2AE-955D34896F86"
+    },
+    {
+      "class": "bitmap",
+      "id": "4CC3C036-20B7-40D5-A642-CC72508ED921"
+    }
+  ],
+  "name": "Boges",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

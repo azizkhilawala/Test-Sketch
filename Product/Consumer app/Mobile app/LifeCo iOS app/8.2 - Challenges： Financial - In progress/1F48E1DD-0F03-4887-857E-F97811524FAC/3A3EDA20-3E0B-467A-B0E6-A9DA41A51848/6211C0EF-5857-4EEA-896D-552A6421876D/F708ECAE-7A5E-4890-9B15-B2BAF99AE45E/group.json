@@ -1,0 +1,53 @@
+{
+  "_class": "group",
+  "do_objectID": "F708ECAE-7A5E-4890-9B15-B2BAF99AE45E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 124,
+    "width": 335,
+    "x": 0,
+    "y": 32
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "6E762408-16D6-4004-8426-3E19A189442B"
+    },
+    {
+      "class": "text",
+      "id": "AEBB14D4-39A0-419A-861F-01E3C92AA01E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "5B4DCE9A-B646-49E2-B116-D5582564F076"
+    }
+  ],
+  "name": "congratulations",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

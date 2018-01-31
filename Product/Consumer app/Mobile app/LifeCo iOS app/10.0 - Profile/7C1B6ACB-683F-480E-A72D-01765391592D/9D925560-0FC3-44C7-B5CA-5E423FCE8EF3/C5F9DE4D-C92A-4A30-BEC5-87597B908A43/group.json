@@ -1,0 +1,74 @@
+{
+  "_class": "group",
+  "do_objectID": "C5F9DE4D-C92A-4A30-BEC5-87597B908A43",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 104,
+    "width": 270,
+    "x": 52,
+    "y": 281
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "1AD9E6FC-1E54-4176-AA02-18C3CDCAC678"
+    },
+    {
+      "class": "group",
+      "id": "778E928A-24A2-4891-9DF9-B8CDF97B0C3D"
+    },
+    {
+      "class": "text",
+      "id": "1C6542EA-4ADF-46FC-89EA-C0025EF44884"
+    }
+  ],
+  "name": "Popup - Change Password - Updated",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    },
+    "com.invisionlabs.library": {
+      "original-layer": {
+        "originalID": "BD8400F6-36ED-43D1-8F93-4B46C7C965E0",
+        "version": 2
+      }
+    }
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "75216EEC-9012-4237-A11E-B49E2E9F941F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 205,
+    "width": 375,
+    "x": 0,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 4,
+  "masterInfluenceEdgeMaxYPadding": 6,
+  "masterInfluenceEdgeMinXPadding": 4,
+  "masterInfluenceEdgeMinYPadding": 2,
+  "name": "titlebar/primary/rewards",
+  "nameIsFixed": false,
+  "originalObjectID": "24586BF6-F305-485A-808C-8B0B4724584E",
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "2E7AD154-F773-46F9-830B-F65178E3BBA1_symbolID",
+      "value": "CF17C9BE-F18F-4F80-ACEF-F0DB7992D6A7"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "A369E224-4237-4E5D-A57B-1DB0E08A6719_stringValue",
+      "value": "iTunes®"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "50476C5A-EDAF-4A6D-A68D-E21D4B4AD21E_symbolID",
+      "value": "CF17C9BE-F18F-4F80-ACEF-F0DB7992D6A7"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "62810CFA-F457-4B61-BDCE-E86A0A835D9E_stringValue",
+      "value": "25,432 pts"
+    }
+  ],
+  "overrides": {
+    "2E7AD154-F773-46F9-830B-F65178E3BBA1": {
+      "symbolID": "CF17C9BE-F18F-4F80-ACEF-F0DB7992D6A7"
+    },
+    "50476C5A-EDAF-4A6D-A68D-E21D4B4AD21E": {
+      "symbolID": "CF17C9BE-F18F-4F80-ACEF-F0DB7992D6A7"
+    },
+    "62810CFA-F457-4B61-BDCE-E86A0A835D9E": "25,432 pts",
+    "A369E224-4237-4E5D-A57B-1DB0E08A6719": "iTunes®"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "B9367DE5-DEF8-4459-98B9-5B80F37BB983",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,112 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "changeIdentifier": 11803,
+  "do_objectID": "A04D3F9A-3CF5-4259-BFEB-AA1A80A48E67",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 147,
+    "width": 375,
+    "x": 6496,
+    "y": 541
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "group",
+      "id": "EDDBDF11-9CFA-41C5-9425-35E940593ECC"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "CF7E617E-99DE-48F0-8C9E-B7C773FB67C0"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "15BAFBFA-A7F6-4865-8FAE-98393453D283"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "DA8AD6C9-F63E-44B6-B3E4-D1649692EC51"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "5EB5ACAC-4621-4566-AD12-B36E001698F9"
+    },
+    {
+      "class": "text",
+      "id": "7926502D-2F23-4A4A-8A86-8F11286C4FEE"
+    },
+    {
+      "class": "text",
+      "id": "813A0339-2DDD-46FB-B26D-EA7A89FE55B7"
+    },
+    {
+      "class": "text",
+      "id": "DDCE165E-B9C0-498F-A2AF-0BE652F3B8CE"
+    },
+    {
+      "class": "group",
+      "id": "5F5314B8-0B88-44DE-984F-C8EAAAF2B24E"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "5926CD48-ED5D-4A84-98EB-308FAE71F859"
+    },
+    {
+      "class": "group",
+      "id": "1F3AECAD-4998-48B9-9234-66ACAE4FEB74"
+    }
+  ],
+  "name": "components / graph / line-disability",
+  "nameIsFixed": true,
+  "originalObjectID": "A04D3F9A-3CF5-4259-BFEB-AA1A80A48E67",
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "89C9E00A-CF8C-444B-B2BE-59881854C8AE",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

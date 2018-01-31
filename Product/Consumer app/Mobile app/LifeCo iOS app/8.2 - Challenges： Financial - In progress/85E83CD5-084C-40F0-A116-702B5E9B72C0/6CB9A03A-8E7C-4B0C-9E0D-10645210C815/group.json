@@ -1,0 +1,49 @@
+{
+  "_class": "group",
+  "do_objectID": "6CB9A03A-8E7C-4B0C-9E0D-10645210C815",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 24,
+    "width": 359,
+    "x": 8,
+    "y": 131
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "1905D7C7-A6FF-4549-A5B1-68AB24F732DA"
+    },
+    {
+      "class": "group",
+      "id": "07871D31-249D-4BBE-A800-AD033CC6A2CD"
+    }
+  ],
+  "name": "Bars/Navigation/Segmented Control/Small - First Copy",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

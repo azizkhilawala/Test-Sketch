@@ -1,0 +1,53 @@
+{
+  "_class": "group",
+  "do_objectID": "7A9CD1DC-E31B-4F61-BFA5-3410622F416C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 50,
+    "width": 300,
+    "x": 0,
+    "y": 301
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "980F6B35-18BC-4A00-B30C-65C644605BFF"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "5119BE5C-0B28-4726-AF89-657851C37E0D"
+    },
+    {
+      "class": "text",
+      "id": "FE005F89-F627-4865-9538-40BF2A085111"
+    }
+  ],
+  "name": "MyLife",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "_class": "group",
+  "do_objectID": "E0DD65BC-B3A5-4517-BC7B-48FB14982963",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 123,
+    "width": 262,
+    "x": 54,
+    "y": 63
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "CFD5CA3A-0A22-49ED-98C9-CD5D7F142CC8"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "066A4E42-622C-4138-8D35-89FE8ED9471E"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "35E0A33F-FE4D-48D7-981B-2058C35783CE"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "50D168F8-D232-4B57-B676-EBCA9200A8C7"
+    }
+  ],
+  "name": "Graduation",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 0.04029850746268656
+    },
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

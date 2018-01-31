@@ -1,0 +1,67 @@
+{
+  "_class": "group",
+  "do_objectID": "4BAA74F3-BC5C-4330-9BE1-AF8B42BB02CF",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 100,
+    "width": 375,
+    "x": 0,
+    "y": 99
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "9811BA45-A12E-4775-ADDD-6B0E28D46257"
+    },
+    {
+      "class": "group",
+      "id": "72F0EA97-32BA-4090-8BAE-5E5B56A01940"
+    },
+    {
+      "class": "group",
+      "id": "9C9A7F5F-D3FD-480D-9984-2A0699975E9A"
+    },
+    {
+      "class": "text",
+      "id": "A4CE3A56-A6AE-4A16-BC2B-8810054BDAB7"
+    },
+    {
+      "class": "text",
+      "id": "C84F337B-E5FD-494F-A349-B35B3E34E960"
+    }
+  ],
+  "name": "Weight - Log Missed",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

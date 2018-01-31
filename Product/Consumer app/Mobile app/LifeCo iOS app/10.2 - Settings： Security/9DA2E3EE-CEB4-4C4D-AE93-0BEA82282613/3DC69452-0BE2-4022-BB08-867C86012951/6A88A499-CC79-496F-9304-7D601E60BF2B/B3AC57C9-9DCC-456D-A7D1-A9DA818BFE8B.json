@@ -1,0 +1,59 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "B3AC57C9-9DCC-456D-A7D1-A9DA818BFE8B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 54,
+    "width": 54,
+    "x": 11,
+    "y": 11
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 0,
+  "masterInfluenceEdgeMaxYPadding": 0,
+  "masterInfluenceEdgeMinXPadding": 0,
+  "masterInfluenceEdgeMinYPadding": 0,
+  "name": "icon/ios/touch-id",
+  "nameIsFixed": false,
+  "originalObjectID": "A0F472BF-E87D-4ADF-AA18-D621066B5CD8",
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "C26DDEE4-06CB-46DC-8DFC-D2ACE9808A44_symbolID",
+      "value": "163814DB-3A2F-46E5-A6E4-EDB0548C3105"
+    }
+  ],
+  "overrides": {
+    "C26DDEE4-06CB-46DC-8DFC-D2ACE9808A44": {
+      "symbolID": "163814DB-3A2F-46E5-A6E4-EDB0548C3105"
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "1C339F57-475F-4414-B52D-7D0F87B03946",
+  "verticalSpacing": 0
+}

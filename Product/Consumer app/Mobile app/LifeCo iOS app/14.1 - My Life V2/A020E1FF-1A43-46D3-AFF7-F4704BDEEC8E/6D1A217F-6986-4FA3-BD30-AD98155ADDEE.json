@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "6D1A217F-6986-4FA3-BD30-AD98155ADDEE",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 72,
+    "width": 375,
+    "x": 0,
+    "y": 234
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 0,
+  "masterInfluenceEdgeMaxYPadding": 0,
+  "masterInfluenceEdgeMinXPadding": 0,
+  "masterInfluenceEdgeMinYPadding": 0,
+  "name": "components / mylife / category-2",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "E75F488D-2076-4DA9-942A-7199F320EEE0",
+      "overrideName": "CBF5DF27-DF2E-478A-9B15-C47255238D47_stringValue",
+      "value": "Financial Score"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "FD0CA929-1075-4C4A-ADDB-1EC49A2DAAFC",
+      "overrideName": "63FE28B8-0603-42B2-96CE-79D78C9692A1_stringValue",
+      "value": "87"
+    }
+  ],
+  "overrides": {
+    "63FE28B8-0603-42B2-96CE-79D78C9692A1": "87",
+    "CBF5DF27-DF2E-478A-9B15-C47255238D47": "Financial Score"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "C003E50C-FEA3-4011-BEA1-20B1FE268C2E",
+  "verticalSpacing": 0
+}

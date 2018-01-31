@@ -1,0 +1,67 @@
+{
+  "_class": "group",
+  "do_objectID": "86C8F592-6F3E-4ACA-B2DA-E4F55F15248E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 91,
+    "width": 375,
+    "x": 0,
+    "y": 10
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "899B3AF2-BBB7-4793-B794-851485396221"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "7447A469-7E02-4B08-B3E8-CFAC9A202E57"
+    },
+    {
+      "class": "text",
+      "id": "B3B41CF8-7AD5-432C-A564-C0777955E630"
+    },
+    {
+      "class": "text",
+      "id": "DFFE9BE1-78CF-4F7B-8B96-722C186B101A"
+    },
+    {
+      "class": "group",
+      "id": "028A0C00-157A-494F-8620-02369F2728BC"
+    }
+  ],
+  "name": "Video",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

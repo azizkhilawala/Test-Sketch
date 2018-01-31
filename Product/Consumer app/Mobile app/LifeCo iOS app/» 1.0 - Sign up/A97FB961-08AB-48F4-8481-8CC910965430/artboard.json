@@ -1,0 +1,155 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.9529411764705882,
+    "green": 0.9529411764705882,
+    "red": 0.9529411764705882
+  },
+  "do_objectID": "A97FB961-08AB-48F4-8481-8CC910965430",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 2,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 667,
+    "width": 375,
+    "x": -1124,
+    "y": -866
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "gridSize": 10,
+    "isEnabled": false,
+    "thickGridTimes": 10
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+      10,
+      365
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "917ABE7C-DD74-4F60-9853-9F182DB00EE1"
+    },
+    {
+      "class": "text",
+      "id": "197FBA17-D448-4296-B014-C8542102C398"
+    },
+    {
+      "class": "text",
+      "id": "66BD8743-CFBB-45B0-9A6E-FFAEE3992034"
+    },
+    {
+      "class": "text",
+      "id": "882B2A70-B2C2-463F-ABAF-C554AAD8DF2D"
+    },
+    {
+      "class": "group",
+      "id": "E005800A-7AB9-4BC9-9019-A2536BA46806"
+    },
+    {
+      "class": "text",
+      "id": "FA3B45E3-9E29-425A-886A-3991C655CD13"
+    },
+    {
+      "class": "text",
+      "id": "A8705B91-8BFB-4FC5-9869-BB80631AD9CD"
+    },
+    {
+      "class": "group",
+      "id": "A0A462CF-8C3A-4366-B834-35BA5E3822A8"
+    },
+    {
+      "class": "group",
+      "id": "144DDCDB-B0C9-4ED3-9667-193B8D66CFFD"
+    },
+    {
+      "class": "group",
+      "id": "CF4F79DE-4E89-497D-8321-1303AEDB2AA5"
+    },
+    {
+      "class": "group",
+      "id": "3ED03FAD-CB7C-4B79-A472-9C37066C07CB"
+    }
+  ],
+  "name": "• CandE - Completed 3",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 0,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.abynim.sketchplugins.userflows": {
+      "artboardID": "A97FB961-08AB-48F4-8481-8CC910965430"
+    },
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+      20,
+      64,
+      617
+    ]
+  }
+}

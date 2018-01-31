@@ -1,0 +1,87 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "E57942D7-4C86-4828-B495-12D767F4ECE8",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 29,
+    "width": 345,
+    "x": 15,
+    "y": 79
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 0,
+  "masterInfluenceEdgeMaxYPadding": 0,
+  "masterInfluenceEdgeMinXPadding": 0,
+  "masterInfluenceEdgeMinYPadding": 0,
+  "name": "input / tabs / three / blue",
+  "nameIsFixed": false,
+  "originalObjectID": "22D4E66D-0A87-4F91-8927-800B8AAAC968",
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "B8614EC2-797A-4193-8A5B-8F91A8F560CC_stringValue",
+      "value": "Highlights"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "019C3903-1284-42EB-B09D-44FDBFB4200A_stringValue",
+      "value": "Activity"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "2F43DFD2-A1C5-49AF-A4A7-8F7B7D885E4D_stringValue",
+      "value": "Points"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "51756CB6-A463-42AB-A7C9-17BED1548F22_stringValue",
+      "value": "Highlights"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "C4D726CA-D6E8-4A87-B63C-772D59E1AACE_stringValue",
+      "value": "Points"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "F56F96B8-8697-4507-B03E-7EE2E982A8EB_stringValue",
+      "value": "Activity"
+    }
+  ],
+  "overrides": {
+    "019C3903-1284-42EB-B09D-44FDBFB4200A": "Activity",
+    "2F43DFD2-A1C5-49AF-A4A7-8F7B7D885E4D": "Points",
+    "51756CB6-A463-42AB-A7C9-17BED1548F22": "Highlights",
+    "B8614EC2-797A-4193-8A5B-8F91A8F560CC": "Highlights",
+    "C4D726CA-D6E8-4A87-B63C-772D59E1AACE": "Points",
+    "F56F96B8-8697-4507-B03E-7EE2E982A8EB": "Activity"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "31C9EE5E-1D20-4AD1-899D-715CBA853428",
+  "verticalSpacing": 0
+}

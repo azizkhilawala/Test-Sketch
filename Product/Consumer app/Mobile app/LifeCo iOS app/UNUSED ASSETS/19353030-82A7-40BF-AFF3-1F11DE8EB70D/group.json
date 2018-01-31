@@ -1,0 +1,72 @@
+{
+  "_class": "group",
+  "do_objectID": "19353030-82A7-40BF-AFF3-1F11DE8EB70D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 181,
+    "width": 270,
+    "x": 764,
+    "y": -3170
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "01F208CC-508F-4A1F-9BAD-8BBC2E5D3E5F"
+    },
+    {
+      "class": "group",
+      "id": "2CA7B16B-7CC4-48EA-8B18-E91D0A3FCD27"
+    },
+    {
+      "class": "text",
+      "id": "762F86DC-DBCF-4AA6-9320-FA9B49FEEC64"
+    },
+    {
+      "class": "text",
+      "id": "77553063-185F-45E9-B0B2-3BF62686DE1F"
+    }
+  ],
+  "name": "Modal - Are you sure cancel",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

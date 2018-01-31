@@ -1,0 +1,59 @@
+{
+  "_class": "group",
+  "do_objectID": "7C7C9080-9A8C-4331-AA06-8B75B93007B1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 125,
+    "width": 375,
+    "x": 0,
+    "y": 542
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "B48E5311-11B9-49F5-9FC3-A6577BEFCEDB"
+    },
+    {
+      "class": "text",
+      "id": "A40E04B2-D740-49DA-BD32-85C2AC1F5D08"
+    },
+    {
+      "class": "group",
+      "id": "F89B6F9F-ED03-47F5-9722-345AD99EF101"
+    }
+  ],
+  "name": "Health Tip",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

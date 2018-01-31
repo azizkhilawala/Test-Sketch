@@ -1,0 +1,156 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.9529411764705882,
+    "green": 0.9529411764705882,
+    "red": 0.9529411764705882
+  },
+  "do_objectID": "31C527A4-036E-49C1-B183-07F94402B536",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 936,
+    "width": 375,
+    "x": -723,
+    "y": 1249
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "gridSize": 10,
+    "isEnabled": false,
+    "thickGridTimes": 10
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+      10,
+      365
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "AFB93FDC-432C-48DE-BAF4-7CFFE4494E81"
+    },
+    {
+      "class": "group",
+      "id": "C79C8449-2A09-418C-8647-C42129C7739D"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "399D0A74-99DF-453C-8C21-69AB6BCB601A"
+    },
+    {
+      "class": "group",
+      "id": "51BDF95F-BA1B-4DD3-AD47-9E4E113D45B1"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "440BD019-B811-401D-8EF3-1C8BFBE9027D"
+    },
+    {
+      "class": "group",
+      "id": "14C14E8E-C16D-4E48-914E-9C0BA03D9018"
+    },
+    {
+      "class": "group",
+      "id": "D34A6118-1C78-4E7D-9F0E-18AB13F4CC60"
+    },
+    {
+      "class": "text",
+      "id": "46481924-928F-43FB-9460-003BB354E203"
+    },
+    {
+      "class": "group",
+      "id": "3D65DE43-AEA3-4832-AA51-6994D999BA16"
+    },
+    {
+      "class": "group",
+      "id": "0CBC1C8F-13DA-458D-961E-8670DC19708D"
+    },
+    {
+      "class": "group",
+      "id": "8DF1177D-171A-4F14-863D-F970DF3D6E2C"
+    },
+    {
+      "class": "group",
+      "id": "835820AF-3B9C-4EBF-A496-607B63C11D21"
+    }
+  ],
+  "name": "01-Bucket List - Home Copy 12",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 0,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+      20,
+      64,
+      617
+    ]
+  }
+}

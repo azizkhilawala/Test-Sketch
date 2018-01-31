@@ -1,0 +1,54 @@
+{
+  "_class": "group",
+  "do_objectID": "9B1B5D19-17CD-4EC9-B37E-C598CD85A807",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 13,
+    "width": 95,
+    "x": -9.947598300641403e-13,
+    "y": 2.521366244322223
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "711630EE-4535-4D3A-A392-D37C8338C394"
+    },
+    {
+      "class": "text",
+      "id": "75E11682-6234-439D-BF17-AC0848B51B9A"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "4D6B33E5-A0E1-4C9E-BBA0-30C0901BEC9B"
+    }
+  ],
+  "name": "Signal",
+  "nameIsFixed": true,
+  "originalObjectID": "3C092594-6136-4459-A0B2-AB84B86160FB",
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

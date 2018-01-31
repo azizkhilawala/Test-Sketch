@@ -1,0 +1,50 @@
+{
+  "_class": "group",
+  "do_objectID": "3A8D927A-004C-424C-B985-F58535EC7F07",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 15.6,
+    "width": 18,
+    "x": 10,
+    "y": 21.2
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "3029D295-314A-417D-B13B-112F4CB2FB72"
+    },
+    {
+      "class": "group",
+      "id": "FD278819-B271-4601-96E0-06E7E1BB995D"
+    }
+  ],
+  "name": "heartbeat",
+  "nameIsFixed": true,
+  "originalObjectID": "41AC023E-31BB-4EE4-824E-51A46D2DFEEC",
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

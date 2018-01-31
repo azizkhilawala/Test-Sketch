@@ -1,0 +1,50 @@
+{
+  "_class": "group",
+  "do_objectID": "F1B33D22-2571-4C57-94C0-0EFE28C54CC4",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 52,
+    "width": 60,
+    "x": 0,
+    "y": 4
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "2671BA15-16F5-48B6-BAE6-6BCAE4194F17"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B2B88FB3-281E-49DB-85BB-7D9201C4F8BB"
+    }
+  ],
+  "name": "desktop",
+  "nameIsFixed": true,
+  "originalObjectID": "F1B33D22-2571-4C57-94C0-0EFE28C54CC4",
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

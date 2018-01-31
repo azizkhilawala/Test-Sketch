@@ -1,0 +1,57 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "C368C38D-984E-4B73-B14A-804016FB3B08",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 50,
+    "width": 305,
+    "x": 15,
+    "y": 318
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 0,
+  "masterInfluenceEdgeMaxYPadding": 0,
+  "masterInfluenceEdgeMinXPadding": 0,
+  "masterInfluenceEdgeMinYPadding": 0,
+  "name": "button/ghost/large/primary-active",
+  "nameIsFixed": false,
+  "originalObjectID": "F4F74059-3094-4E88-B55B-884499508F1C",
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "05A0DE09-5AB9-4251-97C7-CC1AA6BC77E5_stringValue",
+      "value": "Create Account"
+    }
+  ],
+  "overrides": {
+    "05A0DE09-5AB9-4251-97C7-CC1AA6BC77E5": "Create Account"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "64C37DDC-399A-4DAA-9F40-1E3DA8940ADB",
+  "verticalSpacing": 0
+}

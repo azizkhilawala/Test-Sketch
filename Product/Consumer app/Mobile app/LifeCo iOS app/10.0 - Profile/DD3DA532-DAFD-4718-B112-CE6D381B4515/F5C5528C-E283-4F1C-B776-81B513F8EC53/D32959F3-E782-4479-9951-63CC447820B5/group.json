@@ -1,0 +1,63 @@
+{
+  "_class": "group",
+  "do_objectID": "D32959F3-E782-4479-9951-63CC447820B5",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 46,
+    "width": 375,
+    "x": 0,
+    "y": 224
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "EAB5A958-AD34-49A8-8B18-CB3B0B05B24B"
+    },
+    {
+      "class": "group",
+      "id": "E052A773-FC91-4334-857F-99362DCE8D15"
+    },
+    {
+      "class": "text",
+      "id": "328C3742-5102-4716-9EA9-2B2C304B86AD"
+    },
+    {
+      "class": "group",
+      "id": "8EAAA411-9B65-4F86-A0D5-CDF8FF721520"
+    }
+  ],
+  "name": "Group 56",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "_class": "shapeGroup",
+  "clippingMaskMode": 0,
+  "do_objectID": "BF4B0DED-40A9-40FF-A1D3-1F11DE2F2002",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 10.66666666666667,
+    "width": 17,
+    "x": 293.6666666666661,
+    "y": 17.66666666666663
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "C15A892A-9E1E-4ABF-9327-B39E617C0645"
+    },
+    {
+      "class": "shapePath",
+      "id": "4CBB835A-506D-4B69-8A21-6D25CFB5D474"
+    },
+    {
+      "class": "shapePath",
+      "id": "EE590961-9C7C-4E65-9D6D-BBB1AC587589"
+    },
+    {
+      "class": "shapePath",
+      "id": "88249EA9-A40B-4494-99EA-D06C6E1AB72B"
+    }
+  ],
+  "name": "Cellular Connection",
+  "nameIsFixed": true,
+  "resizingConstraint": 12,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "windingRule": 0
+}

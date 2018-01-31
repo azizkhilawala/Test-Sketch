@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "do_objectID": "22AB72E3-B29F-4E83-A526-02346DDBF54C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 72,
+    "width": 345,
+    "x": 15,
+    "y": 402
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "11F3A9EE-854F-46B1-9CE1-041B318023BB"
+    },
+    {
+      "class": "group",
+      "id": "65C679C1-D9B8-4DC2-89DB-ADB31272F135"
+    },
+    {
+      "class": "group",
+      "id": "C84EE04A-02E1-45DC-AE1A-42A051724F86"
+    },
+    {
+      "class": "group",
+      "id": "43544E02-CBEF-4FE1-8E38-5874E4658129"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "6906BB43-0AC5-48F9-A9CF-B6E1B8D2D20A"
+    }
+  ],
+  "name": "Daily data",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

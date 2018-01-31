@@ -1,0 +1,188 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.9529411764705882,
+    "green": 0.9529411764705882,
+    "red": 0.9529411764705882
+  },
+  "do_objectID": "0DD1EFF3-61B4-48EC-8B39-3CA84894412D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 667,
+    "width": 375,
+    "x": 989,
+    "y": 365
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "gridSize": 10,
+    "isEnabled": false,
+    "thickGridTimes": 10
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+      10,
+      365
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "453CB387-9454-4998-B075-E796DD2597E7"
+    },
+    {
+      "class": "text",
+      "id": "8687F201-FDD8-469A-A0BA-6E1620BCFF3A"
+    },
+    {
+      "class": "text",
+      "id": "91EC4C9E-008B-46F2-8300-ABE279D590B7"
+    },
+    {
+      "class": "text",
+      "id": "E6951F16-5637-434F-B600-DE2769D651A1"
+    },
+    {
+      "class": "text",
+      "id": "A5804C12-EFCD-4FD9-96E7-5B20BA4B1DEB"
+    },
+    {
+      "class": "group",
+      "id": "86110B5F-48B5-441C-B75B-1DD49CBE7F01"
+    },
+    {
+      "class": "group",
+      "id": "9C110FD8-EFED-4D75-BE24-C068D31CCAFD"
+    },
+    {
+      "class": "text",
+      "id": "B8A61DD2-58B6-482E-AA40-5759F2C44F7E"
+    },
+    {
+      "class": "text",
+      "id": "21F2A886-0A48-4FA6-9C27-FCAD4950BA66"
+    },
+    {
+      "class": "text",
+      "id": "E83A2A89-A7E4-483A-958F-78F87D11DCF1"
+    },
+    {
+      "class": "text",
+      "id": "6EFDE512-AE63-49E7-B68A-70BF4C588C8F"
+    },
+    {
+      "class": "text",
+      "id": "CE73200D-E4DC-405A-9597-E22B4D3170E4"
+    },
+    {
+      "class": "group",
+      "id": "48B2EF21-1733-42C5-8CEA-87A15EC654FC"
+    },
+    {
+      "class": "group",
+      "id": "77426C9D-5BE7-46CF-9AF4-424579E71E1D"
+    },
+    {
+      "class": "text",
+      "id": "20E92FB2-A264-4EFC-B161-974B0551A229"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "584053C8-F537-43CF-A78B-E00A68672CB2"
+    },
+    {
+      "class": "group",
+      "id": "5ABBCFDD-13E3-4CDE-9A11-6412C16AE56F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "2C00EF80-0767-41C0-A58B-AA895834009A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "093DEDDE-C19A-4D9E-823E-28A26EA9C4D2"
+    },
+    {
+      "class": "group",
+      "id": "A7FAB5A4-ADAA-4783-8BA8-8529F1F24F18"
+    }
+  ],
+  "name": "MyLife - Task Template (Error)",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 0,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+      20,
+      64,
+      617
+    ]
+  }
+}

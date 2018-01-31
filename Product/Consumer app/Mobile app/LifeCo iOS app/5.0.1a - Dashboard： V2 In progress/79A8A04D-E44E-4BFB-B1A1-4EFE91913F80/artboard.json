@@ -1,0 +1,136 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.9529411764705882,
+    "green": 0.9529411764705882,
+    "red": 0.9529411764705882
+  },
+  "do_objectID": "79A8A04D-E44E-4BFB-B1A1-4EFE91913F80",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 1343,
+    "width": 375,
+    "x": 324,
+    "y": 2438
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "48B9E10A-72C2-4E2D-84CA-02F8450D77EC"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F6FE5CFD-C68C-4ECD-A6BE-3A37C31706AC"
+    },
+    {
+      "class": "group",
+      "id": "20934218-CAAF-4DA4-96E8-D5E86EA6D00A"
+    },
+    {
+      "class": "group",
+      "id": "67B28BAE-EB31-4288-B829-5C780D3D60E5"
+    },
+    {
+      "class": "group",
+      "id": "F70A32EC-92FB-4220-A57D-C80724058A96"
+    },
+    {
+      "class": "group",
+      "id": "C1E6BB52-6B06-4F81-8D76-AD0E6BEB3C2C"
+    },
+    {
+      "class": "group",
+      "id": "527485A6-92CD-43EC-A70B-C7653CDA1FF5"
+    },
+    {
+      "class": "text",
+      "id": "1753D5CC-0A8D-4A18-BC58-0BA0C3252BB4"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "B20F8028-7486-4979-B645-CDC524F4A191"
+    },
+    {
+      "class": "text",
+      "id": "E6743C38-AFAC-45EA-9B5A-2FA22D91306E"
+    },
+    {
+      "class": "text",
+      "id": "DC2CFB59-FF71-41D2-BF22-620CABA49FD9"
+    }
+  ],
+  "name": "Dashboard/iOS/1 Copy",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+      669
+    ]
+  }
+}

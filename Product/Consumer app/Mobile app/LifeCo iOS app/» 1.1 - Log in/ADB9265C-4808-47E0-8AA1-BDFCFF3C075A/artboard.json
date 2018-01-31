@@ -1,0 +1,139 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.9529411764705882,
+    "green": 0.9529411764705882,
+    "red": 0.9529411764705882
+  },
+  "do_objectID": "ADB9265C-4808-47E0-8AA1-BDFCFF3C075A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 667,
+    "width": 375,
+    "x": 862,
+    "y": 575
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "gridSize": 10,
+    "isEnabled": false,
+    "thickGridTimes": 10
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+      10,
+      365
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "text",
+      "id": "6AA6A6C9-4883-4965-A569-161E9D848938"
+    },
+    {
+      "class": "text",
+      "id": "36FF6B97-5BFB-4C97-90F2-09CDA30D3897"
+    },
+    {
+      "class": "text",
+      "id": "4549AAD0-F744-4A83-97CD-3FA3B361688B"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "15155C00-4E1F-4277-8403-7C07C73930DA"
+    },
+    {
+      "class": "group",
+      "id": "6A90ABC9-20B7-489D-B96D-EAF8BA578993"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "2D58CB68-BD30-4F7B-A826-377F9D155B00"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "81317EF5-1572-420F-97E7-0E89D40130C0"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "AC3680C1-E273-4AAF-9B9B-5C143B3CBB0E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "08C4609D-0209-450F-990A-CD1D056E9758"
+    },
+    {
+      "class": "group",
+      "id": "B1A9C791-920E-4993-B222-10A907ECC994"
+    }
+  ],
+  "name": "Login - Filled - Error Sticky",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 0,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+      20,
+      64,
+      617
+    ]
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "_class": "group",
+  "do_objectID": "EB539464-D755-4326-BE44-DBD10C9AD04C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 22,
+    "width": 40,
+    "x": 294,
+    "y": 252
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "98A036B6-E6CA-4B44-BEC3-37390B0EAA6A"
+    },
+    {
+      "class": "group",
+      "id": "7A267BFC-1C64-4E31-AF31-077893B22D83"
+    }
+  ],
+  "name": "icon/keyboard/delete",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

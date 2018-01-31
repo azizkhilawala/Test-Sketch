@@ -1,0 +1,63 @@
+{
+  "_class": "group",
+  "do_objectID": "5358772F-AE48-4811-A280-FC264B413D73",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 102,
+    "width": 375,
+    "x": 0,
+    "y": 518
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "C0B2D7DD-8E3C-4D69-9642-0F2D33506B74"
+    },
+    {
+      "class": "text",
+      "id": "16A63E2A-C88D-41B7-A6EE-77B944EFC770"
+    },
+    {
+      "class": "text",
+      "id": "B04005BF-B681-4837-AF19-305BB37B4175"
+    },
+    {
+      "class": "bitmap",
+      "id": "7426092D-CC88-49D2-8C6B-586DD4B16269"
+    }
+  ],
+  "name": "Home Depot",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "do_objectID": "DC971E68-1B0F-4697-997A-216798876018",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 747,
+    "width": 375,
+    "x": 4668,
+    "y": -5230
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "35D6795A-D38E-490C-8993-625818EC9A4C"
+    },
+    {
+      "class": "group",
+      "id": "8B1F7FC5-F504-4038-979A-DE099EB1B4A0"
+    },
+    {
+      "class": "group",
+      "id": "1B946A35-73AC-446A-BFFB-A1C92A81C14A"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "110947F7-B5A8-40CF-8262-E7EF2DB9A94A"
+    },
+    {
+      "class": "group",
+      "id": "8BB7E74F-930E-4F92-8BF8-8DBC5287CE24"
+    },
+    {
+      "class": "group",
+      "id": "8D991A05-3D09-4070-B77D-55A84C05D127"
+    },
+    {
+      "class": "group",
+      "id": "3C02AE7A-51DF-4EBA-8A0C-1FA3E1C20484"
+    },
+    {
+      "class": "group",
+      "id": "9668EBA6-9A7D-444C-9D93-67AAB9ED6517"
+    }
+  ],
+  "name": "BucketList-ListView",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "do_objectID": "46FCFFD3-BD65-4444-8DC4-0B6E5284C424",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 161,
+    "width": 270,
+    "x": 53,
+    "y": 253
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "8085035E-D22F-4241-88C7-F89B748DB0F6"
+    },
+    {
+      "class": "group",
+      "id": "8B14CFAB-44F6-475D-AF5E-B8C539533E0A"
+    },
+    {
+      "class": "text",
+      "id": "660EACD5-B346-455A-B06E-555D2E1DFBE4"
+    },
+    {
+      "class": "text",
+      "id": "1B77B5C8-DB88-48E9-A717-F14BC1742514"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F21D95E9-ED04-4E6F-B5D6-244D07D8856B"
+    }
+  ],
+  "name": "UI Views / Alerts / Touch ID",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}
