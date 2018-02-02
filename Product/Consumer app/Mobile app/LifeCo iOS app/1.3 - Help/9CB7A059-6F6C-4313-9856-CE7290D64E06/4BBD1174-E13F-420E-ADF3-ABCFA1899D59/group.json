@@ -1,0 +1,70 @@
+{
+  "_class": "group",
+  "do_objectID": "4BBD1174-E13F-420E-ADF3-ABCFA1899D59",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 291,
+    "width": 355,
+    "x": 10,
+    "y": 366
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "DA50D63A-A680-4EDC-A272-7283E3488081"
+    },
+    {
+      "class": "group",
+      "id": "570AE646-9AA5-498F-BD2E-79A5611D9A9D"
+    }
+  ],
+  "name": "Popover - Issue Type",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    },
+    "com.invisionlabs.library": {
+      "original-layer": {
+        "originalID": "3CAD8208-D316-499A-BA55-7A5BA22E021B",
+        "version": 2
+      }
+    }
+  }
+}

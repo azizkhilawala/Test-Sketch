@@ -1,0 +1,49 @@
+{
+  "_class": "group",
+  "do_objectID": "DA50D63A-A680-4EDC-A272-7283E3488081",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 57,
+    "width": 355,
+    "x": 0,
+    "y": 234
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "641E1D53-DB4A-45F8-93DC-18DC3240BF6B"
+    },
+    {
+      "class": "text",
+      "id": "F55F4B19-57DC-4BFE-99E3-1D930C30F9A0"
+    }
+  ],
+  "name": "Cancel Btn",
+  "nameIsFixed": true,
+  "resizingConstraint": 37,
+  "resizingType": 1,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

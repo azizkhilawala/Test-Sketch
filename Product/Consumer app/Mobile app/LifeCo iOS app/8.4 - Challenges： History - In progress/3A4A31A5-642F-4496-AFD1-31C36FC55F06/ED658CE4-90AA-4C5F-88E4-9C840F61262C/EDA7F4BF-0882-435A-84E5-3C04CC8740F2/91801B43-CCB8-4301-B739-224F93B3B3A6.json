@@ -1,0 +1,67 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "91801B43-CCB8-4301-B739-224F93B3B3A6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 14,
+    "width": 14,
+    "x": 104,
+    "y": 42
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 0,
+  "masterInfluenceEdgeMaxYPadding": 0,
+  "masterInfluenceEdgeMinXPadding": 0,
+  "masterInfluenceEdgeMinYPadding": 0,
+  "name": "icon/ui/calendar copy",
+  "nameIsFixed": false,
+  "originalObjectID": "C531A887-8666-49EE-AD42-755973960BA9",
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "3DF6DF2C-2947-46BD-94F3-0BDFC1C7B7C3_symbolID",
+      "value": "99E88447-C9F2-4EE7-B236-8C60CC6235EC"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "4CF992E7-A456-4CBA-934F-F3B7E46EBC49_symbolID",
+      "value": "99E88447-C9F2-4EE7-B236-8C60CC6235EC"
+    }
+  ],
+  "overrides": {
+    "3DF6DF2C-2947-46BD-94F3-0BDFC1C7B7C3": {
+      "symbolID": "99E88447-C9F2-4EE7-B236-8C60CC6235EC"
+    },
+    "4CF992E7-A456-4CBA-934F-F3B7E46EBC49": {
+      "symbolID": "99E88447-C9F2-4EE7-B236-8C60CC6235EC"
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "781FD5A9-FF00-463E-9C7E-439F3BA9BF22",
+  "verticalSpacing": 0
+}
